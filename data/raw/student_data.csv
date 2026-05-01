@@ -1,0 +1,1201 @@
+student_id,gender,attendance_pct,study_hours_wk,quiz_avg,assignment_score,midterm_score,lms_logins_wk,forum_posts,previous_gpa,sleep_hours,internet_access,parent_education,final_score,grade_band
+1,Female,83,20,39,90,40,6,9,4.94,4.3,Yes,Post Graduate,100.0,A
+2,Female,65,1,100,87,41,11,8,5.75,7.1,Yes,Post Graduate,92.49,A
+3,Female,91,19,79,93,22,4,2,8.08,6.3,No,Graduate,100.0,A
+4,Female,97,2,84,100,63,7,14,5.04,6.0,Yes,Graduate,100.0,A
+5,Female,50,10,28,83,82,17,9,6.7,6.0,Yes,Post Graduate,100.0,A
+6,Male,60,13,77,53,45,24,11,7.64,5.4,Yes,High School,100.0,A
+7,Male,69,7,33,30,27,23,14,8.89,7.5,Yes,Post Graduate,90.25,A
+8,Male,85,7,97,41,53,0,6,5.87,5.6,Yes,Graduate,87.02,A
+9,Female,71,3,89,76,97,2,0,8.33,5.2,Yes,High School,95.99,A
+10,Male,57,19,87,81,23,4,6,7.63,6.7,Yes,Post Graduate,100.0,A
+11,Female,95,2,66,74,81,24,4,9.23,8.0,Yes,Graduate,100.0,A
+12,Female,72,7,86,30,46,24,3,6.12,5.5,Yes,High School,94.26,A
+13,Male,81,1,75,73,43,14,10,5.94,6.6,Yes,Graduate,87.66,A
+14,Male,93,5,80,88,21,1,11,4.31,5.4,Yes,Graduate,75.99,B
+15,Male,46,12,56,99,51,22,3,4.49,5.8,Yes,High School,100.0,A
+16,Female,55,16,40,88,89,15,12,9.15,5.6,Yes,Post Graduate,100.0,A
+17,Female,63,20,95,81,52,7,6,9.62,4.7,Yes,Graduate,100.0,A
+18,Male,70,16,84,31,20,15,13,9.38,8.5,Yes,High School,100.0,A
+19,Male,79,19,72,32,39,23,5,8.68,7.2,No,Graduate,100.0,A
+20,Male,92,3,49,47,85,21,2,7.91,5.1,Yes,Graduate,100.0,A
+21,Male,65,16,44,37,26,2,0,5.85,6.7,Yes,Post Graduate,88.04,A
+22,Female,82,13,75,83,27,1,4,7.02,6.9,No,High School,89.48,A
+23,Female,92,19,28,64,83,16,0,9.97,6.3,No,Post Graduate,100.0,A
+24,Male,75,3,84,92,51,22,0,5.9,4.8,Yes,Graduate,85.27,A
+25,Female,47,8,70,53,51,14,5,6.15,5.3,No,High School,85.6,A
+26,Male,86,3,74,54,43,12,11,7.07,6.5,Yes,Graduate,99.63,A
+27,Male,60,14,100,44,85,22,14,4.22,6.3,No,Graduate,100.0,A
+28,Female,96,10,94,44,73,10,11,5.96,8.1,Yes,High School,100.0,A
+29,Female,83,4,30,76,74,7,3,4.8,8.8,Yes,High School,78.82,B
+30,Male,99,5,86,52,28,11,4,4.35,8.6,Yes,Graduate,77.88,B
+31,Male,98,16,25,45,80,6,14,6.61,7.7,Yes,Post Graduate,100.0,A
+32,Male,70,16,63,62,42,9,5,7.81,4.2,Yes,Post Graduate,100.0,A
+33,Female,76,1,93,33,35,23,6,9.67,8.3,No,Graduate,85.58,A
+34,Male,95,11,36,96,84,0,7,9.43,5.0,Yes,Graduate,100.0,A
+35,Male,46,19,59,37,45,9,9,6.04,5.3,Yes,High School,100.0,A
+36,Male,100,4,45,65,29,4,8,7.41,6.9,Yes,Graduate,83.37,B
+37,Male,93,7,48,52,81,4,11,6.57,7.8,Yes,Graduate,98.37,A
+38,Male,92,13,83,48,68,3,11,9.75,8.2,Yes,Graduate,100.0,A
+39,Male,75,20,40,98,31,24,3,8.04,7.8,Yes,Post Graduate,100.0,A
+40,Female,83,14,29,64,94,17,14,4.86,7.8,No,Graduate,100.0,A
+41,Male,51,14,37,69,61,8,1,9.35,4.7,Yes,Post Graduate,100.0,A
+42,Male,66,20,41,100,64,3,3,6.26,4.4,Yes,Post Graduate,100.0,A
+43,Female,71,10,43,68,86,12,12,6.43,6.9,Yes,High School,100.0,A
+44,Female,47,13,86,92,44,23,0,5.34,8.8,No,High School,100.0,A
+45,Female,91,16,99,65,38,19,8,7.14,7.1,Yes,High School,100.0,A
+46,Female,60,11,36,45,91,5,11,4.64,5.7,Yes,Graduate,100.0,A
+47,Female,52,18,52,70,83,21,14,7.22,5.5,Yes,High School,100.0,A
+48,Male,49,15,49,95,29,23,13,9.2,4.2,Yes,Graduate,100.0,A
+49,Male,45,18,73,40,45,24,5,8.97,6.8,Yes,Post Graduate,100.0,A
+50,Male,49,5,27,82,42,4,4,9.67,8.2,Yes,High School,82.41,B
+51,Female,90,1,75,74,96,3,13,9.27,7.8,Yes,Post Graduate,100.0,A
+52,Male,98,3,74,41,84,21,11,7.37,8.4,Yes,Post Graduate,100.0,A
+53,Female,91,15,38,95,94,18,6,4.82,4.1,Yes,Graduate,100.0,A
+54,Male,78,20,62,59,70,16,4,8.78,6.3,Yes,High School,100.0,A
+55,Male,78,6,77,95,96,10,10,5.44,4.4,Yes,Post Graduate,100.0,A
+56,Male,48,8,28,85,44,2,2,7.09,8.9,Yes,Post Graduate,79.76,B
+57,Female,65,5,66,90,41,20,5,4.72,6.3,No,High School,95.3,A
+58,Male,53,15,80,92,67,16,9,9.21,4.4,Yes,Post Graduate,100.0,A
+59,Male,91,14,52,31,45,13,10,5.51,7.6,Yes,Post Graduate,95.99,A
+60,Female,82,3,39,93,47,9,6,5.93,5.1,Yes,High School,83.28,B
+61,Male,61,13,49,97,29,2,8,6.99,4.4,Yes,Post Graduate,92.77,A
+62,Male,63,10,65,35,71,1,10,6.14,8.9,No,High School,97.7,A
+63,Male,66,6,94,33,94,23,6,9.05,4.3,Yes,Post Graduate,100.0,A
+64,Male,55,4,30,80,81,24,1,7.34,6.9,Yes,High School,98.89,A
+65,Male,50,4,43,49,31,14,0,7.66,5.4,Yes,Post Graduate,86.99,A
+66,Female,77,6,74,39,24,22,9,9.94,5.6,Yes,Post Graduate,89.87,A
+67,Male,81,9,41,38,94,14,7,7.64,8.0,No,Graduate,97.2,A
+68,Female,97,11,33,63,95,2,2,9.56,7.6,Yes,Post Graduate,100.0,A
+69,Female,85,5,38,89,49,2,4,5.12,5.2,Yes,High School,78.99,B
+70,Male,84,8,63,43,51,18,12,5.81,7.7,Yes,High School,100.0,A
+71,Male,77,15,90,82,70,6,2,6.59,5.7,Yes,Post Graduate,100.0,A
+72,Male,74,7,51,65,48,5,8,5.87,5.2,Yes,Graduate,90.27,A
+73,Male,46,10,29,67,32,14,3,6.74,7.0,Yes,High School,71.77,B
+74,Female,89,2,51,65,55,10,10,6.07,4.9,Yes,Graduate,81.75,B
+75,Female,52,15,70,41,32,7,13,4.6,5.3,No,High School,87.42,A
+76,Male,86,17,55,38,70,13,7,9.04,8.6,Yes,High School,100.0,A
+77,Male,70,14,60,83,76,0,14,5.87,5.1,Yes,High School,100.0,A
+78,Female,97,9,59,92,44,10,5,6.08,5.7,No,Post Graduate,99.04,A
+79,Male,88,19,78,53,44,6,3,6.51,8.6,Yes,Post Graduate,100.0,A
+80,Female,64,9,73,49,82,7,0,5.8,5.5,Yes,Post Graduate,96.36,A
+81,Male,100,19,86,61,49,16,12,6.27,8.2,Yes,Graduate,100.0,A
+82,Male,98,17,62,80,82,3,0,6.01,4.4,Yes,Graduate,100.0,A
+83,Male,63,14,58,84,51,17,6,7.95,4.1,Yes,Post Graduate,100.0,A
+84,Female,47,19,32,63,54,23,13,7.62,8.0,Yes,High School,100.0,A
+85,Female,98,14,79,77,26,9,6,8.42,8.2,Yes,High School,100.0,A
+86,Male,91,5,44,40,21,2,6,4.21,8.2,Yes,Graduate,68.84,C
+87,Male,53,2,77,73,43,16,9,7.39,8.9,Yes,High School,100.0,A
+88,Female,53,8,90,54,92,21,5,9.01,8.9,No,Graduate,98.68,A
+89,Male,67,5,99,99,37,20,9,7.46,5.4,Yes,Graduate,100.0,A
+90,Female,86,6,64,41,72,6,9,9.49,6.1,Yes,Graduate,100.0,A
+91,Female,46,11,89,80,72,3,2,5.47,5.9,Yes,High School,100.0,A
+92,Female,98,2,79,53,41,4,7,5.29,4.2,Yes,Post Graduate,86.17,A
+93,Male,61,13,97,55,85,20,8,4.45,7.6,Yes,Graduate,100.0,A
+94,Male,94,5,68,80,31,18,4,4.55,8.6,Yes,High School,92.66,A
+95,Male,99,17,71,41,81,15,7,8.55,7.2,Yes,Graduate,100.0,A
+96,Female,62,12,39,88,45,8,12,8.02,4.2,No,Post Graduate,95.25,A
+97,Female,70,7,38,36,28,18,7,9.83,8.7,Yes,Post Graduate,99.04,A
+98,Male,83,17,38,60,43,2,11,4.72,4.4,Yes,Graduate,82.32,B
+99,Male,99,12,63,44,23,21,8,8.43,6.6,Yes,Graduate,100.0,A
+100,Female,78,13,37,47,51,2,10,9.99,5.8,Yes,Graduate,89.6,A
+101,Male,97,12,81,45,75,11,14,6.39,4.5,Yes,High School,100.0,A
+102,Male,94,4,42,91,56,24,0,9.46,4.2,Yes,Post Graduate,100.0,A
+103,Male,81,5,67,99,58,23,14,9.67,6.3,No,Post Graduate,100.0,A
+104,Male,97,19,98,86,60,16,9,8.68,5.8,Yes,Post Graduate,100.0,A
+105,Female,93,9,44,90,54,17,1,8.18,4.8,Yes,High School,100.0,A
+106,Male,53,4,38,40,75,2,10,4.78,8.4,No,Graduate,62.49,C
+107,Female,53,15,64,54,24,10,10,5.69,5.3,Yes,High School,94.15,A
+108,Male,81,16,52,98,96,16,1,6.97,6.4,No,Post Graduate,100.0,A
+109,Male,100,8,64,62,25,23,2,9.21,5.2,No,High School,92.58,A
+110,Male,97,10,87,56,57,6,4,9.29,8.4,No,Graduate,100.0,A
+111,Female,54,11,77,59,58,17,3,7.34,7.8,Yes,High School,100.0,A
+112,Male,61,8,84,93,54,15,5,5.7,4.1,No,Post Graduate,94.7,A
+113,Male,72,15,61,51,87,19,3,4.41,5.5,Yes,High School,99.76,A
+114,Female,70,18,74,43,83,14,12,6.68,7.2,Yes,Post Graduate,100.0,A
+115,Female,73,11,57,35,98,18,10,8.1,6.2,Yes,High School,100.0,A
+116,Male,55,20,56,31,66,13,3,7.93,5.4,No,High School,100.0,A
+117,Female,65,15,83,35,38,24,4,9.9,6.0,Yes,Graduate,100.0,A
+118,Male,59,12,51,89,65,24,0,4.55,4.8,Yes,Post Graduate,100.0,A
+119,Female,47,12,77,53,79,2,3,8.78,6.4,Yes,Graduate,100.0,A
+120,Female,82,16,84,92,21,23,7,5.86,6.3,Yes,Graduate,100.0,A
+121,Female,62,14,62,61,30,12,8,9.16,7.9,Yes,Post Graduate,100.0,A
+122,Female,90,15,78,49,52,9,7,4.06,5.6,Yes,High School,100.0,A
+123,Male,57,1,50,51,85,5,6,5.21,7.5,Yes,Post Graduate,78.62,B
+124,Female,47,6,33,35,92,6,14,7.25,7.5,No,Graduate,83.79,B
+125,Female,64,15,31,33,25,21,9,6.89,4.2,Yes,Post Graduate,95.78,A
+126,Male,56,13,49,74,38,22,13,6.02,4.9,Yes,Post Graduate,100.0,A
+127,Female,88,18,94,47,41,4,7,9.85,7.3,Yes,High School,100.0,A
+128,Female,74,20,61,33,39,23,1,9.2,6.9,Yes,Graduate,100.0,A
+129,Male,80,2,58,65,25,6,9,9.95,5.4,Yes,High School,90.99,A
+130,Male,77,3,50,37,61,11,13,9.83,4.9,Yes,High School,89.86,A
+131,Male,98,15,38,31,89,16,10,5.87,6.0,Yes,Post Graduate,100.0,A
+132,Female,80,13,47,76,50,10,9,4.44,4.8,Yes,Graduate,100.0,A
+133,Female,85,1,29,49,27,10,11,8.24,4.8,Yes,Post Graduate,77.66,B
+134,Female,81,17,68,85,47,14,14,7.35,6.7,Yes,Graduate,100.0,A
+135,Male,53,5,44,55,48,0,6,5.35,4.9,Yes,High School,78.03,B
+136,Female,64,18,67,79,48,24,6,6.73,6.6,Yes,Graduate,100.0,A
+137,Female,64,13,76,79,27,17,4,4.56,7.4,Yes,Post Graduate,100.0,A
+138,Female,99,11,98,59,36,7,14,7.42,4.2,Yes,High School,100.0,A
+139,Female,45,19,55,43,72,15,4,7.46,5.7,No,Graduate,100.0,A
+140,Female,69,16,37,60,94,3,1,6.42,5.6,Yes,Graduate,100.0,A
+141,Female,62,13,47,30,73,6,8,5.97,7.2,Yes,High School,99.56,A
+142,Female,77,17,59,73,30,2,7,8.01,7.1,Yes,High School,97.56,A
+143,Female,70,8,72,95,89,20,12,6.05,5.9,Yes,Post Graduate,100.0,A
+144,Female,92,6,70,72,40,22,10,4.05,7.2,No,Post Graduate,95.51,A
+145,Female,95,15,92,50,32,21,2,4.61,6.4,Yes,Graduate,100.0,A
+146,Male,79,8,40,65,49,17,1,5.64,6.1,Yes,Post Graduate,86.33,A
+147,Female,75,12,98,68,32,6,14,4.64,6.8,No,Graduate,98.46,A
+148,Male,100,13,71,42,41,21,4,9.31,5.1,Yes,Graduate,100.0,A
+149,Female,86,8,48,78,45,4,3,5.65,8.1,Yes,High School,91.66,A
+150,Male,77,18,93,76,68,2,11,9.18,5.1,Yes,High School,100.0,A
+151,Female,59,3,95,61,30,9,8,6.35,7.0,Yes,Post Graduate,92.94,A
+152,Female,86,7,65,53,79,13,2,7.62,5.7,Yes,Graduate,100.0,A
+153,Female,80,8,60,32,92,7,0,5.36,5.8,Yes,Graduate,88.06,A
+154,Female,76,8,96,79,86,21,11,5.95,5.7,Yes,Graduate,100.0,A
+155,Male,82,17,59,59,27,21,11,4.53,8.8,Yes,High School,100.0,A
+156,Male,74,16,36,46,35,11,7,8.77,8.6,Yes,Post Graduate,99.9,A
+157,Female,84,5,89,59,40,19,5,5.54,7.9,Yes,Graduate,94.72,A
+158,Female,89,2,26,94,94,2,3,5.68,8.7,Yes,Post Graduate,87.22,A
+159,Male,66,11,39,89,31,14,0,4.7,8.1,Yes,Graduate,92.13,A
+160,Male,60,7,76,43,92,14,4,4.14,4.8,Yes,Graduate,92.9,A
+161,Female,54,2,49,83,52,3,14,6.92,7.0,Yes,Post Graduate,78.3,B
+162,Female,65,2,92,54,98,3,12,7.3,8.8,Yes,Post Graduate,100.0,A
+163,Male,58,20,42,89,82,5,12,4.11,7.0,Yes,Post Graduate,100.0,A
+164,Male,69,2,35,79,50,23,14,9.9,5.2,Yes,Graduate,97.72,A
+165,Female,90,19,31,45,23,3,6,5.37,5.2,Yes,Graduate,88.11,A
+166,Male,96,3,31,56,33,6,4,6.32,8.8,Yes,Post Graduate,76.14,B
+167,Female,65,6,45,39,77,23,6,7.71,5.6,Yes,High School,94.74,A
+168,Female,93,11,87,50,71,22,4,6.93,4.8,Yes,Graduate,100.0,A
+169,Female,84,3,76,58,57,9,4,9.74,4.7,Yes,High School,93.8,A
+170,Male,94,8,45,57,94,22,1,6.32,6.3,Yes,Post Graduate,100.0,A
+171,Male,68,13,93,61,63,0,6,8.08,4.2,Yes,High School,100.0,A
+172,Female,90,4,35,81,34,18,6,8.7,5.8,Yes,Graduate,99.06,A
+173,Female,98,8,88,39,57,14,11,9.39,7.9,Yes,Graduate,100.0,A
+174,Male,85,9,86,39,40,3,11,6.85,4.6,Yes,Post Graduate,88.66,A
+175,Female,60,2,35,39,34,16,7,7.59,4.5,Yes,Graduate,73.97,B
+176,Female,74,20,68,61,70,13,0,7.87,5.4,Yes,Post Graduate,100.0,A
+177,Female,93,12,71,47,40,12,13,6.76,8.2,Yes,Post Graduate,100.0,A
+178,Male,66,11,46,58,32,17,1,4.79,7.6,No,Post Graduate,85.87,A
+179,Male,95,12,46,72,56,0,7,7.67,4.5,Yes,Post Graduate,100.0,A
+180,Female,81,15,32,87,35,7,0,8.45,8.4,Yes,Graduate,100.0,A
+181,Male,78,11,34,50,65,6,10,5.13,5.8,Yes,Graduate,91.88,A
+182,Male,56,17,38,63,72,24,3,5.96,4.7,Yes,Post Graduate,100.0,A
+183,Male,81,4,28,49,29,23,5,7.56,6.0,Yes,Post Graduate,88.01,A
+184,Female,64,17,95,33,33,2,7,4.62,5.1,Yes,Graduate,92.93,A
+185,Female,68,2,54,48,50,18,0,7.82,4.7,Yes,Graduate,80.88,B
+186,Male,89,4,79,84,37,19,0,7.59,7.7,Yes,Graduate,100.0,A
+187,Female,89,1,41,99,23,19,14,4.71,6.0,Yes,Post Graduate,92.4,A
+188,Female,96,10,74,32,96,10,0,7.51,6.9,Yes,High School,100.0,A
+189,Male,95,19,66,64,65,18,4,9.05,4.9,Yes,High School,100.0,A
+190,Female,83,7,59,30,43,24,3,8.59,4.8,Yes,High School,100.0,A
+191,Male,75,20,48,65,49,23,11,4.27,4.2,Yes,Graduate,100.0,A
+192,Female,98,10,94,73,92,12,3,4.2,4.3,Yes,High School,100.0,A
+193,Female,48,18,57,36,89,14,1,8.39,6.7,Yes,Post Graduate,100.0,A
+194,Male,100,14,81,66,77,20,1,4.87,7.6,Yes,Post Graduate,100.0,A
+195,Male,95,12,85,70,52,17,4,5.35,5.3,Yes,High School,100.0,A
+196,Male,78,11,65,68,68,16,1,4.49,6.3,Yes,High School,100.0,A
+197,Female,46,16,81,95,93,1,2,7.91,6.7,Yes,Graduate,100.0,A
+198,Female,95,17,88,61,26,20,3,7.27,7.8,Yes,High School,100.0,A
+199,Male,59,20,38,56,59,16,14,7.32,4.5,No,High School,100.0,A
+200,Female,83,20,47,79,62,18,4,9.79,5.0,Yes,High School,100.0,A
+201,Female,80,5,96,84,28,14,14,9.49,6.7,Yes,Graduate,100.0,A
+202,Female,47,13,27,56,59,5,0,7.59,4.2,No,Post Graduate,86.98,A
+203,Male,81,4,94,48,51,8,11,8.44,5.6,Yes,Post Graduate,98.5,A
+204,Female,78,4,52,88,46,4,8,4.56,4.1,No,Graduate,71.04,B
+205,Female,49,3,85,38,69,5,2,8.56,8.9,Yes,High School,88.16,A
+206,Female,47,12,54,50,47,23,9,4.6,5.2,No,Post Graduate,76.84,B
+207,Female,91,18,82,86,42,15,5,8.43,8.0,No,Post Graduate,100.0,A
+208,Female,100,15,63,99,92,19,11,9.95,4.4,Yes,Graduate,100.0,A
+209,Female,69,15,62,44,82,20,2,8.58,6.0,No,High School,100.0,A
+210,Male,57,15,30,52,78,1,7,6.28,5.1,Yes,Post Graduate,98.24,A
+211,Female,63,14,49,69,33,5,6,4.76,7.5,No,Graduate,91.04,A
+212,Female,89,7,87,48,66,19,13,5.31,4.6,Yes,Graduate,100.0,A
+213,Male,53,1,76,43,94,20,2,5.36,7.7,Yes,Graduate,93.15,A
+214,Male,85,16,86,77,49,11,2,5.61,7.9,Yes,High School,100.0,A
+215,Male,92,20,91,73,52,20,12,7.15,4.2,Yes,High School,100.0,A
+216,Male,63,20,46,50,70,5,3,8.73,7.2,Yes,Graduate,100.0,A
+217,Female,56,13,91,95,53,22,8,7.04,7.2,No,Graduate,100.0,A
+218,Male,70,8,89,86,59,13,2,6.68,6.4,Yes,Graduate,93.9,A
+219,Male,93,14,86,37,62,19,11,5.71,6.3,Yes,Graduate,100.0,A
+220,Male,85,9,61,78,60,16,7,7.19,8.4,No,High School,100.0,A
+221,Female,55,14,43,40,96,13,12,6.37,6.1,No,High School,100.0,A
+222,Male,92,1,69,98,27,24,10,4.01,7.6,Yes,Post Graduate,98.54,A
+223,Male,64,18,42,95,87,0,14,7.98,4.5,Yes,High School,100.0,A
+224,Female,73,9,98,95,70,10,12,4.06,7.2,Yes,Post Graduate,100.0,A
+225,Male,72,3,94,56,21,5,2,7.2,4.7,Yes,Post Graduate,74.62,B
+226,Female,59,5,86,78,44,22,7,7.91,8.2,No,Post Graduate,98.44,A
+227,Female,89,9,77,59,79,11,1,6.31,6.3,No,Post Graduate,99.46,A
+228,Male,68,7,58,85,47,4,6,4.86,8.5,No,Post Graduate,82.1,B
+229,Male,73,10,84,47,54,10,14,4.43,6.0,Yes,High School,100.0,A
+230,Female,100,12,89,60,23,16,12,9.83,5.1,Yes,Post Graduate,100.0,A
+231,Female,89,4,50,56,65,21,10,6.33,4.8,Yes,High School,84.67,B
+232,Male,81,5,66,64,25,3,1,8.96,8.9,Yes,Graduate,87.01,A
+233,Female,96,17,46,97,88,4,8,7.32,6.7,Yes,Post Graduate,100.0,A
+234,Female,76,13,75,75,40,11,10,7.35,5.7,Yes,High School,100.0,A
+235,Female,79,13,35,80,36,2,11,5.8,5.6,Yes,High School,90.09,A
+236,Female,49,17,60,48,83,20,1,8.33,6.7,Yes,Graduate,100.0,A
+237,Male,55,7,29,85,39,8,13,4.21,8.8,Yes,Graduate,73.6,B
+238,Female,82,11,57,91,42,14,10,7.07,6.5,Yes,High School,100.0,A
+239,Female,58,18,75,76,23,6,12,6.86,9.0,No,High School,100.0,A
+240,Male,52,19,87,67,86,4,12,9.83,5.1,Yes,Graduate,100.0,A
+241,Male,73,11,91,83,29,9,13,7.87,8.1,Yes,Graduate,100.0,A
+242,Female,51,3,89,65,44,4,0,4.41,4.0,Yes,High School,75.87,B
+243,Female,45,4,59,95,82,7,6,6.93,4.4,Yes,Post Graduate,89.79,A
+244,Female,47,14,84,74,53,12,12,4.61,8.3,Yes,Post Graduate,100.0,A
+245,Female,78,10,40,89,85,1,9,6.42,5.5,No,Post Graduate,100.0,A
+246,Male,73,7,77,68,84,16,8,5.32,4.2,Yes,High School,100.0,A
+247,Female,69,17,79,52,51,9,9,8.93,6.8,Yes,Graduate,100.0,A
+248,Female,97,15,46,59,82,3,12,9.5,7.6,Yes,Graduate,100.0,A
+249,Female,78,18,99,78,98,24,14,5.13,7.9,Yes,Graduate,100.0,A
+250,Male,52,9,30,98,63,24,12,9.59,8.1,Yes,Post Graduate,100.0,A
+251,Female,78,12,92,44,70,12,2,9.46,5.9,Yes,High School,100.0,A
+252,Male,77,10,71,52,40,10,12,5.1,5.4,No,Post Graduate,98.16,A
+253,Female,69,9,45,41,56,9,0,6.16,8.8,No,Post Graduate,75.57,B
+254,Female,58,3,95,42,32,3,14,8.32,5.9,Yes,Graduate,83.37,B
+255,Female,77,4,69,63,28,23,7,7.91,7.7,No,High School,88.96,A
+256,Male,45,4,45,42,76,16,5,8.69,6.7,Yes,Graduate,98.17,A
+257,Male,57,5,48,31,100,3,13,6.48,6.5,Yes,Graduate,91.71,A
+258,Female,69,4,84,94,47,15,14,5.32,4.7,Yes,High School,90.98,A
+259,Male,86,15,58,66,25,6,4,6.05,7.7,Yes,Graduate,100.0,A
+260,Female,97,4,31,80,92,10,7,8.7,7.9,Yes,Post Graduate,100.0,A
+261,Male,48,8,91,58,48,1,1,6.9,7.7,Yes,Graduate,100.0,A
+262,Female,55,15,56,57,41,8,0,5.35,5.0,No,High School,87.92,A
+263,Male,54,13,35,82,91,7,3,6.33,7.4,Yes,Post Graduate,100.0,A
+264,Male,91,9,70,55,24,19,3,5.38,4.2,No,Post Graduate,88.28,A
+265,Female,78,15,85,50,65,4,5,5.65,8.0,Yes,Graduate,100.0,A
+266,Female,74,6,32,73,52,16,10,8.76,8.3,Yes,High School,98.54,A
+267,Male,60,4,72,85,83,24,11,5.56,6.2,Yes,Graduate,100.0,A
+268,Male,48,12,53,88,36,10,10,7.13,8.9,Yes,Graduate,100.0,A
+269,Male,52,4,89,72,58,16,10,9.76,7.8,Yes,High School,100.0,A
+270,Male,72,10,67,71,85,22,7,8.85,5.3,Yes,Post Graduate,100.0,A
+271,Male,88,13,69,39,28,21,7,9.94,8.8,Yes,High School,100.0,A
+272,Female,64,3,41,47,64,19,12,7.38,5.8,Yes,High School,85.83,A
+273,Male,70,13,44,39,78,10,8,4.23,4.2,Yes,High School,90.97,A
+274,Female,55,19,45,55,38,12,11,6.58,8.5,No,High School,96.1,A
+275,Female,58,4,47,44,27,8,2,7.56,4.2,Yes,Graduate,69.7,C
+276,Female,47,15,48,56,59,3,1,8.64,5.8,Yes,High School,100.0,A
+277,Female,93,20,47,98,72,8,8,7.54,4.3,Yes,Graduate,100.0,A
+278,Female,65,20,27,80,66,3,11,5.86,7.7,Yes,High School,100.0,A
+279,Female,57,18,54,91,44,15,10,5.63,4.6,No,Graduate,98.73,A
+280,Female,66,8,40,88,50,9,9,4.12,5.3,Yes,Post Graduate,83.56,B
+281,Female,76,10,41,97,67,19,14,8.29,7.8,Yes,Post Graduate,100.0,A
+282,Female,85,2,39,68,89,0,14,8.17,7.6,Yes,Graduate,94.45,A
+283,Male,85,9,37,99,25,19,3,4.94,4.6,Yes,Post Graduate,98.96,A
+284,Female,61,3,39,61,87,17,0,4.15,8.2,Yes,High School,72.3,B
+285,Male,58,2,85,33,78,18,5,7.28,8.8,Yes,High School,97.39,A
+286,Male,57,16,88,91,38,11,10,9.28,8.0,Yes,Post Graduate,100.0,A
+287,Male,46,19,81,36,97,23,6,7.43,8.2,Yes,High School,100.0,A
+288,Male,55,5,51,41,36,5,0,6.58,8.4,Yes,Post Graduate,75.47,B
+289,Female,77,18,43,98,85,14,6,9.67,7.2,Yes,Post Graduate,100.0,A
+290,Male,98,20,53,53,82,9,8,9.88,4.3,No,Graduate,100.0,A
+291,Male,50,5,52,91,60,4,1,8.23,6.1,Yes,Post Graduate,84.13,B
+292,Male,69,3,26,53,93,5,5,4.86,7.0,Yes,Graduate,74.76,B
+293,Female,64,9,78,49,38,19,2,7.89,5.3,Yes,Graduate,100.0,A
+294,Male,77,16,94,88,78,1,12,5.04,4.6,Yes,Post Graduate,100.0,A
+295,Male,66,19,72,50,41,3,1,6.24,4.3,Yes,Post Graduate,99.52,A
+296,Female,45,10,60,75,51,5,5,4.61,4.0,Yes,Post Graduate,75.53,B
+297,Male,65,15,39,33,92,18,7,5.38,6.7,Yes,High School,100.0,A
+298,Female,91,1,93,72,67,1,7,6.13,6.1,Yes,Post Graduate,93.26,A
+299,Female,60,18,72,39,57,18,3,9.6,6.7,Yes,Graduate,100.0,A
+300,Male,90,8,75,35,58,16,11,6.21,8.5,Yes,Post Graduate,100.0,A
+301,Male,65,2,85,87,79,5,9,7.0,6.7,No,Graduate,89.23,A
+302,Male,55,13,28,36,80,10,5,4.17,5.1,Yes,Graduate,90.82,A
+303,Male,82,18,25,67,48,4,0,5.11,7.3,Yes,Post Graduate,94.84,A
+304,Male,49,1,92,41,79,23,9,7.21,5.8,Yes,High School,95.51,A
+305,Male,89,14,56,84,24,3,13,6.13,6.5,Yes,High School,100.0,A
+306,Female,95,13,59,68,41,8,5,8.77,8.4,No,Post Graduate,100.0,A
+307,Male,74,9,53,66,32,13,3,5.38,4.6,Yes,High School,90.59,A
+308,Male,62,1,54,61,61,18,13,4.73,7.2,Yes,High School,87.42,A
+309,Male,86,11,63,76,38,21,14,8.5,6.9,Yes,Post Graduate,100.0,A
+310,Female,47,10,64,76,84,17,1,6.47,8.4,Yes,Post Graduate,100.0,A
+311,Male,57,16,73,93,80,6,7,8.15,5.0,Yes,Post Graduate,100.0,A
+312,Male,97,1,86,46,62,24,10,6.85,6.8,Yes,Graduate,92.42,A
+313,Male,60,9,80,94,99,8,2,4.76,5.4,Yes,Post Graduate,100.0,A
+314,Female,59,3,35,82,65,24,7,4.09,5.4,Yes,Graduate,89.66,A
+315,Male,50,12,81,65,98,19,8,9.89,6.3,Yes,Post Graduate,100.0,A
+316,Male,47,14,88,69,78,22,13,6.25,5.8,Yes,Post Graduate,100.0,A
+317,Female,76,11,26,91,68,8,11,7.79,4.5,Yes,High School,94.99,A
+318,Female,81,16,69,91,58,19,0,4.09,5.0,Yes,Post Graduate,100.0,A
+319,Female,72,9,30,58,77,16,6,7.63,6.2,No,High School,100.0,A
+320,Male,56,10,85,42,30,21,7,7.53,4.9,Yes,Graduate,98.53,A
+321,Male,74,12,34,73,30,14,0,7.51,4.7,Yes,Graduate,92.47,A
+322,Female,82,15,91,67,86,0,13,5.62,5.0,Yes,Post Graduate,100.0,A
+323,Female,80,7,46,82,98,14,3,6.77,8.9,Yes,High School,100.0,A
+324,Male,52,1,61,92,41,5,12,9.28,5.2,Yes,Graduate,87.96,A
+325,Male,94,16,30,85,78,23,7,8.42,6.2,Yes,Graduate,100.0,A
+326,Female,82,16,51,49,31,10,12,8.49,8.0,Yes,Post Graduate,100.0,A
+327,Male,79,15,40,42,54,19,10,6.16,7.9,Yes,High School,100.0,A
+328,Male,76,4,56,84,98,10,9,7.38,7.1,Yes,Post Graduate,100.0,A
+329,Female,69,4,85,58,38,10,1,8.24,5.9,Yes,Post Graduate,90.34,A
+330,Male,49,19,45,41,69,3,5,8.83,7.6,Yes,Post Graduate,98.77,A
+331,Male,62,18,99,50,63,4,6,8.15,7.5,Yes,Graduate,100.0,A
+332,Female,48,1,39,51,66,16,12,9.69,4.3,Yes,Post Graduate,79.02,B
+333,Male,87,15,36,69,39,5,2,7.83,8.8,Yes,High School,100.0,A
+334,Female,98,11,96,69,62,21,3,4.19,6.1,No,Post Graduate,100.0,A
+335,Male,60,14,86,36,99,12,10,9.32,5.0,Yes,Post Graduate,100.0,A
+336,Male,81,10,81,37,98,20,13,4.77,5.7,No,High School,100.0,A
+337,Male,61,10,53,48,30,1,1,6.5,4.8,Yes,Graduate,83.89,B
+338,Male,81,8,96,69,75,22,7,5.24,7.2,Yes,Graduate,99.95,A
+339,Female,83,17,60,42,55,4,9,8.85,4.7,Yes,Post Graduate,100.0,A
+340,Male,75,11,70,91,88,5,9,7.03,4.7,Yes,Graduate,100.0,A
+341,Male,67,17,89,86,74,9,4,6.51,6.3,Yes,Graduate,100.0,A
+342,Female,59,10,39,92,58,12,0,8.59,8.7,Yes,Graduate,100.0,A
+343,Male,57,16,97,92,95,11,5,9.03,5.8,Yes,Post Graduate,100.0,A
+344,Female,76,8,37,35,96,24,11,6.94,7.2,No,High School,100.0,A
+345,Female,57,6,87,67,72,2,11,6.94,6.0,Yes,High School,100.0,A
+346,Male,50,14,56,39,22,11,0,8.38,6.9,Yes,High School,100.0,A
+347,Female,85,20,46,33,32,12,14,7.6,4.3,Yes,Graduate,100.0,A
+348,Female,57,17,48,87,91,17,10,4.24,5.5,No,Post Graduate,100.0,A
+349,Female,57,7,52,90,35,22,1,8.56,6.6,No,Graduate,98.74,A
+350,Female,57,11,45,84,100,7,2,7.69,8.6,Yes,High School,100.0,A
+351,Male,67,20,54,62,76,19,8,9.04,4.8,Yes,High School,100.0,A
+352,Male,89,14,81,37,91,11,0,7.66,5.0,Yes,Post Graduate,100.0,A
+353,Male,75,17,56,69,42,23,5,6.2,5.6,Yes,Graduate,100.0,A
+354,Female,95,11,73,50,85,7,2,7.82,7.0,Yes,Graduate,100.0,A
+355,Male,72,2,62,66,87,21,9,9.48,5.7,Yes,High School,100.0,A
+356,Male,90,19,82,85,47,0,9,6.06,8.2,No,Graduate,100.0,A
+357,Male,48,6,51,38,35,23,11,5.64,5.7,Yes,Graduate,74.45,B
+358,Male,63,3,48,34,86,15,0,4.04,5.1,Yes,Post Graduate,79.37,B
+359,Male,78,18,36,33,67,22,0,6.64,7.6,Yes,High School,100.0,A
+360,Female,65,1,62,44,71,14,13,7.79,6.9,Yes,High School,90.67,A
+361,Female,87,16,71,97,37,20,11,9.24,6.6,No,Graduate,100.0,A
+362,Male,52,11,85,93,24,12,4,6.78,4.6,Yes,High School,98.7,A
+363,Male,53,16,26,94,79,18,13,9.18,5.1,Yes,Post Graduate,100.0,A
+364,Male,98,9,82,85,53,22,14,4.32,7.5,Yes,High School,100.0,A
+365,Male,91,1,89,92,73,9,4,8.47,4.4,Yes,Graduate,98.24,A
+366,Female,70,13,41,67,100,15,13,9.48,6.8,Yes,High School,100.0,A
+367,Male,59,13,55,64,79,5,4,9.6,7.4,Yes,Post Graduate,98.46,A
+368,Female,50,18,42,33,36,24,13,9.07,5.1,Yes,Post Graduate,100.0,A
+369,Female,87,15,59,64,38,19,3,8.09,8.7,Yes,High School,100.0,A
+370,Male,94,1,56,65,32,5,9,7.23,5.4,Yes,Post Graduate,78.61,B
+371,Female,60,16,86,33,64,12,1,7.34,5.2,No,Post Graduate,100.0,A
+372,Female,60,3,54,47,88,20,12,6.39,6.2,Yes,High School,96.5,A
+373,Female,74,6,80,33,42,5,9,9.07,6.4,Yes,Graduate,82.67,B
+374,Male,47,10,35,72,36,3,14,6.37,7.6,No,Graduate,85.28,A
+375,Female,79,1,46,40,96,9,2,9.99,5.0,Yes,High School,85.0,B
+376,Male,54,19,71,98,66,19,6,6.5,4.8,Yes,Post Graduate,100.0,A
+377,Male,69,10,82,70,44,13,2,7.61,4.8,Yes,High School,99.32,A
+378,Male,46,12,66,83,94,15,0,4.06,8.3,Yes,Graduate,100.0,A
+379,Female,88,11,71,77,61,11,11,6.39,8.9,Yes,Post Graduate,100.0,A
+380,Male,51,15,70,92,31,12,13,4.98,5.1,Yes,High School,100.0,A
+381,Female,52,5,60,57,66,11,4,4.5,5.1,Yes,High School,69.95,C
+382,Male,80,15,70,81,38,12,9,5.25,5.5,Yes,High School,100.0,A
+383,Male,50,4,26,51,35,17,4,8.96,6.9,Yes,High School,72.59,B
+384,Male,91,4,97,48,57,5,3,8.03,8.1,Yes,Graduate,91.48,A
+385,Male,62,5,44,66,41,3,12,9.94,4.2,Yes,Post Graduate,92.25,A
+386,Male,65,19,77,61,85,19,9,6.56,5.7,Yes,Graduate,100.0,A
+387,Male,83,11,25,40,23,6,9,7.14,5.3,No,High School,83.7,B
+388,Male,51,2,48,33,38,10,7,4.56,8.8,Yes,Graduate,69.63,C
+389,Female,71,17,78,95,68,15,1,7.45,6.1,Yes,High School,100.0,A
+390,Male,77,13,66,76,56,21,12,7.64,8.2,Yes,Graduate,100.0,A
+391,Female,76,2,36,69,92,11,9,4.08,4.4,Yes,Post Graduate,76.37,B
+392,Female,80,2,55,86,97,1,12,8.84,7.0,Yes,High School,100.0,A
+393,Female,54,14,42,43,53,11,5,4.86,7.6,Yes,Post Graduate,94.51,A
+394,Male,69,1,69,65,39,17,5,5.77,4.0,Yes,High School,79.52,B
+395,Female,48,8,94,41,35,16,12,9.02,4.6,Yes,High School,93.99,A
+396,Female,96,8,67,60,36,18,13,4.08,6.7,No,Post Graduate,92.68,A
+397,Male,49,9,53,99,44,21,1,7.64,5.9,Yes,High School,97.06,A
+398,Male,55,7,78,58,73,15,2,9.35,6.3,Yes,Post Graduate,100.0,A
+399,Female,45,17,90,58,89,7,12,8.17,5.8,Yes,Post Graduate,100.0,A
+400,Female,64,9,63,33,38,5,10,7.72,4.9,Yes,Post Graduate,81.34,B
+401,Female,97,13,67,71,45,22,10,5.67,7.9,Yes,Post Graduate,100.0,A
+402,Female,99,14,35,55,61,10,5,7.14,5.4,Yes,Graduate,100.0,A
+403,Male,93,10,89,88,71,21,14,6.19,7.2,No,Graduate,100.0,A
+404,Male,95,5,70,82,99,24,12,8.6,7.5,No,Post Graduate,100.0,A
+405,Male,76,17,31,40,73,8,6,8.74,5.6,No,Graduate,100.0,A
+406,Male,77,4,38,64,49,16,2,6.71,5.8,No,Graduate,85.2,A
+407,Male,100,19,71,82,83,21,3,6.38,6.3,No,Graduate,100.0,A
+408,Male,54,10,81,36,69,5,10,6.03,4.6,Yes,High School,90.89,A
+409,Female,48,11,28,30,90,17,8,4.59,4.6,Yes,Graduate,97.88,A
+410,Female,76,14,42,57,48,15,2,4.91,6.2,Yes,Post Graduate,97.79,A
+411,Female,92,14,72,68,23,21,10,8.75,8.6,Yes,High School,100.0,A
+412,Male,70,13,30,99,63,7,7,6.43,6.6,No,Graduate,93.89,A
+413,Male,86,1,98,41,46,6,8,9.24,4.1,Yes,Graduate,94.55,A
+414,Female,83,12,78,47,22,6,10,6.76,7.8,Yes,Post Graduate,90.7,A
+415,Male,75,11,92,97,41,1,11,9.61,6.3,Yes,Post Graduate,100.0,A
+416,Female,83,19,73,38,77,12,5,4.36,7.0,Yes,Post Graduate,100.0,A
+417,Male,54,7,39,100,48,14,2,5.11,5.0,Yes,Post Graduate,83.54,B
+418,Female,64,15,28,80,86,12,7,7.44,6.8,Yes,Graduate,100.0,A
+419,Female,57,7,39,100,60,21,7,7.15,6.3,No,Graduate,85.27,A
+420,Male,94,12,84,55,97,8,3,6.15,8.9,Yes,High School,100.0,A
+421,Male,62,13,67,57,37,24,11,7.85,6.1,Yes,High School,100.0,A
+422,Female,83,13,37,98,44,19,5,7.71,5.0,Yes,Graduate,100.0,A
+423,Male,91,12,79,48,54,6,4,8.12,8.8,Yes,High School,100.0,A
+424,Female,66,19,100,84,79,0,2,7.13,4.3,Yes,Graduate,100.0,A
+425,Female,79,2,64,67,96,22,11,9.98,4.7,Yes,High School,100.0,A
+426,Male,67,11,47,59,96,10,1,7.45,4.8,Yes,Post Graduate,96.92,A
+427,Female,89,12,71,69,70,9,6,8.68,6.8,Yes,High School,100.0,A
+428,Male,70,8,69,78,39,4,5,6.51,7.0,Yes,Graduate,93.66,A
+429,Male,94,9,30,67,25,12,10,7.51,8.7,Yes,High School,97.06,A
+430,Male,93,20,59,91,20,3,8,4.14,8.3,Yes,Graduate,100.0,A
+431,Male,73,19,47,54,35,21,2,5.53,5.6,Yes,Post Graduate,100.0,A
+432,Male,89,6,45,99,67,10,6,8.34,7.9,Yes,High School,96.02,A
+433,Female,53,15,28,92,59,8,12,8.79,8.7,Yes,High School,100.0,A
+434,Male,64,15,42,31,32,3,9,8.42,5.0,No,Post Graduate,91.69,A
+435,Female,90,9,35,71,32,3,7,6.5,5.8,Yes,Post Graduate,82.7,B
+436,Male,67,7,64,93,42,13,9,8.69,7.8,Yes,Post Graduate,96.16,A
+437,Female,61,13,26,54,32,6,11,5.24,6.5,Yes,Post Graduate,91.09,A
+438,Female,63,19,86,45,87,14,8,5.94,7.8,Yes,Graduate,100.0,A
+439,Female,80,7,54,78,35,14,5,4.65,5.2,Yes,Post Graduate,84.52,B
+440,Female,57,7,51,39,53,3,8,9.47,4.5,Yes,High School,89.1,A
+441,Female,99,17,70,53,94,18,13,5.87,8.0,Yes,Post Graduate,100.0,A
+442,Male,100,7,83,80,39,15,5,9.15,4.7,Yes,Graduate,100.0,A
+443,Male,48,3,27,36,46,0,10,5.31,4.4,Yes,Post Graduate,64.08,C
+444,Female,80,5,83,77,24,15,2,8.26,4.5,Yes,High School,100.0,A
+445,Male,75,17,48,52,69,21,13,5.96,4.4,Yes,Post Graduate,100.0,A
+446,Male,91,13,85,61,32,0,1,6.21,5.8,Yes,Graduate,93.5,A
+447,Male,98,7,55,93,44,5,13,9.9,5.2,Yes,High School,98.58,A
+448,Male,65,3,40,79,62,16,9,4.28,8.7,Yes,Graduate,94.43,A
+449,Male,61,7,93,98,39,15,2,4.33,5.0,No,Graduate,90.92,A
+450,Female,99,6,42,100,84,0,0,4.71,6.6,Yes,Post Graduate,96.59,A
+451,Female,76,1,52,84,79,5,13,5.4,4.3,Yes,High School,91.0,A
+452,Male,57,17,67,68,80,9,0,9.17,8.3,Yes,Graduate,100.0,A
+453,Female,48,3,95,47,26,7,5,5.49,6.7,Yes,Graduate,75.93,B
+454,Male,58,9,71,71,70,23,2,4.11,8.5,Yes,High School,98.98,A
+455,Male,98,17,48,76,90,18,5,7.33,5.5,Yes,High School,100.0,A
+456,Male,78,1,55,59,37,22,9,5.79,5.6,Yes,Graduate,80.96,B
+457,Female,47,19,81,73,54,17,12,4.26,8.3,Yes,Post Graduate,100.0,A
+458,Male,60,12,85,83,59,15,11,8.62,8.7,Yes,Post Graduate,100.0,A
+459,Female,67,7,68,82,90,11,14,9.27,8.8,Yes,Post Graduate,100.0,A
+460,Female,94,17,36,99,41,8,3,7.98,4.6,Yes,Graduate,100.0,A
+461,Male,50,13,47,52,45,12,6,5.57,8.8,Yes,High School,94.11,A
+462,Male,77,16,62,58,45,2,14,7.77,7.2,No,Post Graduate,100.0,A
+463,Female,51,3,82,61,50,17,10,4.41,5.7,Yes,Graduate,78.47,B
+464,Male,78,4,45,89,100,0,9,9.81,7.3,Yes,High School,100.0,A
+465,Male,76,15,86,56,47,16,13,6.83,6.4,Yes,Post Graduate,100.0,A
+466,Female,66,1,99,54,67,10,4,6.32,4.4,Yes,High School,83.72,B
+467,Female,61,5,81,31,81,23,8,6.06,4.6,No,Graduate,91.55,A
+468,Male,99,10,41,47,61,15,3,9.5,5.6,No,High School,100.0,A
+469,Male,75,4,44,76,28,12,14,7.0,5.1,Yes,Graduate,75.34,B
+470,Female,72,17,77,32,85,0,9,7.32,5.5,Yes,Post Graduate,100.0,A
+471,Male,47,11,73,84,45,2,7,8.76,8.7,Yes,High School,100.0,A
+472,Male,69,10,40,87,91,6,11,7.72,6.4,Yes,Post Graduate,100.0,A
+473,Female,70,14,95,62,45,24,12,6.28,4.5,Yes,Post Graduate,100.0,A
+474,Male,93,12,68,62,32,13,7,8.08,7.3,Yes,Graduate,100.0,A
+475,Female,86,9,47,77,21,19,3,8.37,7.0,Yes,Graduate,90.28,A
+476,Male,90,6,88,51,37,11,3,8.89,7.0,Yes,Post Graduate,100.0,A
+477,Male,50,20,51,82,67,6,10,8.08,5.4,Yes,Post Graduate,100.0,A
+478,Female,47,6,41,55,40,7,4,9.02,7.5,Yes,Post Graduate,84.09,B
+479,Female,99,14,38,39,31,5,11,4.56,6.7,Yes,High School,93.7,A
+480,Female,45,12,28,71,32,1,9,8.27,8.5,Yes,Graduate,92.81,A
+481,Male,56,17,98,35,27,18,10,7.74,7.0,Yes,Graduate,100.0,A
+482,Female,54,20,32,65,95,13,5,8.5,8.0,Yes,Post Graduate,100.0,A
+483,Female,64,7,33,30,45,5,5,4.22,6.4,No,Graduate,63.9,C
+484,Male,94,6,48,80,29,23,7,6.02,4.9,Yes,High School,91.98,A
+485,Female,62,20,100,77,61,9,13,8.97,5.9,Yes,Post Graduate,100.0,A
+486,Male,84,7,57,31,37,14,0,6.36,7.1,Yes,Graduate,90.86,A
+487,Female,62,14,96,59,63,20,9,6.43,9.0,No,High School,100.0,A
+488,Female,48,10,43,48,77,22,10,5.69,5.6,Yes,High School,100.0,A
+489,Female,52,18,81,34,45,21,12,5.9,5.1,Yes,Graduate,100.0,A
+490,Female,88,18,100,31,26,23,11,4.76,6.9,Yes,Post Graduate,100.0,A
+491,Female,81,13,29,81,96,8,4,5.9,8.2,No,Post Graduate,100.0,A
+492,Male,65,6,89,33,30,11,9,9.67,9.0,Yes,High School,94.04,A
+493,Male,93,7,64,52,35,3,7,7.39,4.1,Yes,Graduate,87.29,A
+494,Female,72,9,36,98,73,19,5,7.73,4.6,No,High School,100.0,A
+495,Female,83,10,82,71,57,3,4,5.99,7.5,No,Post Graduate,99.71,A
+496,Female,82,15,29,83,70,9,11,9.73,8.6,Yes,High School,100.0,A
+497,Male,67,12,60,96,28,20,1,8.45,6.7,Yes,High School,100.0,A
+498,Male,89,18,52,71,99,11,3,5.8,6.4,Yes,High School,100.0,A
+499,Male,92,3,70,71,58,16,13,7.99,6.1,Yes,Post Graduate,100.0,A
+500,Female,84,15,55,69,67,18,10,7.01,8.5,Yes,High School,100.0,A
+501,Female,91,13,39,56,87,15,13,6.32,8.8,Yes,Graduate,100.0,A
+502,Female,93,12,79,85,87,11,14,5.32,4.8,Yes,High School,100.0,A
+503,Female,65,15,41,66,96,18,13,7.69,4.9,Yes,Post Graduate,100.0,A
+504,Male,88,4,58,95,88,22,9,6.74,5.6,No,Graduate,100.0,A
+505,Male,54,6,84,80,40,7,0,8.32,5.4,Yes,High School,90.81,A
+506,Male,84,6,67,92,38,3,1,4.06,7.8,Yes,Post Graduate,80.11,B
+507,Male,93,4,34,35,76,0,6,6.01,7.1,Yes,Graduate,64.67,C
+508,Male,98,5,45,47,66,5,8,5.67,6.0,Yes,Graduate,88.55,A
+509,Female,65,3,64,96,44,12,5,4.38,4.4,Yes,High School,90.21,A
+510,Female,50,19,97,95,38,18,7,4.55,4.8,No,High School,100.0,A
+511,Male,61,15,26,92,81,3,2,8.4,9.0,No,Post Graduate,94.7,A
+512,Male,89,4,49,98,49,11,3,7.62,5.1,Yes,High School,97.53,A
+513,Male,62,10,81,41,36,23,10,5.02,5.9,Yes,High School,95.37,A
+514,Male,79,19,100,49,84,20,0,8.5,5.2,Yes,Graduate,100.0,A
+515,Female,83,18,70,61,46,17,10,4.84,6.8,Yes,Post Graduate,100.0,A
+516,Male,62,6,83,38,92,13,7,9.8,8.8,Yes,Graduate,100.0,A
+517,Male,48,7,88,54,47,11,1,7.16,7.4,Yes,High School,83.71,B
+518,Female,75,12,29,79,61,5,11,9.85,6.1,Yes,Graduate,100.0,A
+519,Female,61,4,95,91,60,18,11,6.29,6.5,Yes,Graduate,100.0,A
+520,Female,50,18,56,96,22,21,5,9.72,4.4,Yes,High School,100.0,A
+521,Male,51,13,90,33,29,6,7,5.43,5.1,Yes,High School,85.47,A
+522,Female,68,6,28,53,78,2,2,6.67,5.5,Yes,Post Graduate,74.21,B
+523,Female,100,12,64,97,65,13,12,6.16,7.4,Yes,High School,100.0,A
+524,Male,87,15,79,96,79,11,7,9.46,8.3,Yes,High School,100.0,A
+525,Female,89,12,37,86,59,21,12,4.01,5.3,Yes,Post Graduate,100.0,A
+526,Male,96,2,91,60,94,12,6,5.78,8.6,Yes,High School,97.33,A
+527,Male,78,18,49,41,90,6,0,6.73,4.8,Yes,Graduate,100.0,A
+528,Male,64,15,96,66,68,19,0,6.75,6.6,Yes,Graduate,100.0,A
+529,Male,97,5,88,39,98,9,10,8.15,8.0,Yes,Graduate,99.26,A
+530,Male,49,7,69,49,43,12,10,5.32,6.2,Yes,Graduate,94.45,A
+531,Female,49,2,77,44,45,15,14,7.43,8.7,Yes,Post Graduate,80.89,B
+532,Female,100,20,35,87,94,0,4,6.45,5.7,Yes,Post Graduate,100.0,A
+533,Male,91,18,89,92,54,6,0,9.47,6.2,Yes,Graduate,100.0,A
+534,Female,54,5,33,31,53,5,12,9.68,5.4,Yes,High School,84.92,B
+535,Female,91,6,73,32,93,4,13,8.9,7.7,Yes,Graduate,100.0,A
+536,Male,60,1,40,66,22,19,14,9.34,6.2,Yes,Graduate,81.34,B
+537,Male,98,6,82,91,65,24,10,6.11,6.2,Yes,High School,100.0,A
+538,Female,65,20,32,87,65,17,8,7.16,6.9,Yes,High School,100.0,A
+539,Female,98,16,60,66,90,22,8,9.04,4.1,Yes,Post Graduate,100.0,A
+540,Male,53,13,53,80,68,10,11,7.48,7.7,No,Graduate,100.0,A
+541,Male,80,9,51,87,65,1,8,8.56,7.1,Yes,High School,100.0,A
+542,Male,46,18,26,51,56,19,6,9.7,5.5,Yes,High School,100.0,A
+543,Female,97,20,27,75,74,10,7,5.41,6.5,Yes,Post Graduate,100.0,A
+544,Male,61,19,78,45,34,24,1,7.56,7.8,No,High School,100.0,A
+545,Male,79,13,34,70,69,22,6,5.51,8.6,No,High School,100.0,A
+546,Male,85,7,56,33,39,17,4,9.67,7.4,Yes,Post Graduate,93.06,A
+547,Female,92,4,79,87,84,4,2,4.78,7.2,Yes,High School,90.73,A
+548,Male,80,12,71,68,48,21,9,6.73,8.5,Yes,Post Graduate,100.0,A
+549,Male,58,17,26,77,33,0,2,5.36,4.7,Yes,Post Graduate,89.72,A
+550,Male,62,16,28,41,48,6,13,6.63,5.6,Yes,Graduate,93.04,A
+551,Female,87,17,93,74,28,16,0,6.84,8.4,No,High School,100.0,A
+552,Male,50,10,53,33,76,16,11,9.39,8.7,Yes,Graduate,100.0,A
+553,Male,86,6,69,87,39,15,8,8.83,4.4,Yes,High School,100.0,A
+554,Female,49,5,55,74,28,9,0,5.8,4.5,Yes,Graduate,71.95,B
+555,Male,74,9,50,31,81,2,13,7.09,7.5,No,Post Graduate,92.87,A
+556,Female,75,12,71,31,96,13,4,6.68,7.5,No,Post Graduate,100.0,A
+557,Male,69,2,54,100,89,21,6,5.8,4.2,Yes,High School,91.16,A
+558,Female,93,10,100,95,30,6,1,6.5,4.7,Yes,Graduate,95.7,A
+559,Male,97,18,54,37,76,14,8,5.15,7.6,Yes,Post Graduate,100.0,A
+560,Male,71,19,74,71,48,6,11,8.31,6.2,Yes,Post Graduate,100.0,A
+561,Female,51,12,96,34,88,16,9,7.59,7.7,Yes,Post Graduate,100.0,A
+562,Female,97,16,63,62,45,15,0,4.78,5.5,Yes,Graduate,100.0,A
+563,Female,86,18,51,70,91,9,0,6.78,5.2,Yes,Graduate,100.0,A
+564,Male,79,14,46,80,42,15,6,4.9,8.6,Yes,High School,100.0,A
+565,Female,99,9,76,31,44,12,1,8.26,6.1,Yes,Graduate,100.0,A
+566,Male,47,18,97,34,86,10,8,8.31,7.9,Yes,High School,100.0,A
+567,Male,62,12,65,31,56,12,7,6.34,7.7,Yes,High School,93.57,A
+568,Male,75,10,67,78,83,18,1,5.61,9.0,Yes,Graduate,100.0,A
+569,Female,73,3,49,77,84,20,2,7.8,8.5,Yes,High School,100.0,A
+570,Female,88,4,52,74,36,7,9,9.62,8.1,Yes,Graduate,89.86,A
+571,Male,66,5,33,40,88,2,10,4.9,6.7,Yes,Graduate,79.52,B
+572,Male,79,2,45,87,24,19,12,9.42,7.6,Yes,Graduate,93.36,A
+573,Male,69,2,56,55,89,8,8,8.92,6.7,No,High School,90.4,A
+574,Male,74,5,46,86,66,21,2,7.73,8.7,Yes,Graduate,99.21,A
+575,Female,77,8,74,45,95,12,12,4.0,8.8,Yes,Post Graduate,98.78,A
+576,Female,67,18,84,44,55,16,14,5.64,5.6,No,High School,100.0,A
+577,Male,62,7,28,98,79,22,2,4.97,7.5,No,Post Graduate,99.41,A
+578,Male,61,11,82,43,39,18,4,6.96,6.4,Yes,High School,99.31,A
+579,Female,83,8,42,62,51,21,0,9.51,8.5,Yes,High School,100.0,A
+580,Female,65,11,40,90,99,6,2,7.26,6.8,Yes,High School,100.0,A
+581,Male,94,11,41,61,60,5,7,5.66,7.7,Yes,High School,97.46,A
+582,Male,83,1,79,30,89,12,1,7.5,6.3,Yes,Graduate,82.21,B
+583,Female,51,14,55,88,48,9,0,7.12,5.2,Yes,High School,100.0,A
+584,Female,76,20,42,66,45,8,11,6.72,4.2,Yes,Post Graduate,100.0,A
+585,Female,74,3,87,40,50,16,6,7.06,5.5,Yes,Post Graduate,95.72,A
+586,Male,94,11,50,31,34,19,3,8.2,4.6,Yes,Post Graduate,93.23,A
+587,Female,72,2,32,58,30,4,1,5.01,6.6,Yes,High School,63.4,C
+588,Female,56,3,77,68,97,23,11,8.08,5.0,Yes,Post Graduate,100.0,A
+589,Male,92,20,74,52,32,4,3,4.37,6.3,No,High School,93.76,A
+590,Female,52,19,67,35,97,2,11,5.02,5.0,Yes,High School,100.0,A
+591,Male,61,7,52,43,63,16,13,6.16,4.4,Yes,High School,89.35,A
+592,Female,84,15,99,53,84,17,11,4.56,8.8,Yes,Post Graduate,100.0,A
+593,Female,65,2,35,64,61,17,13,6.41,4.3,No,High School,68.68,C
+594,Female,49,1,73,59,91,6,14,6.24,4.8,Yes,Post Graduate,80.22,B
+595,Male,83,14,77,33,44,6,5,9.47,6.8,Yes,Graduate,100.0,A
+596,Male,55,8,91,36,42,6,13,5.33,7.6,Yes,Graduate,93.87,A
+597,Female,85,16,69,54,97,11,8,6.78,4.9,Yes,Graduate,100.0,A
+598,Female,72,15,57,39,49,21,2,5.14,6.3,Yes,Graduate,89.91,A
+599,Female,50,11,64,31,92,14,1,6.72,8.2,Yes,High School,100.0,A
+600,Male,50,12,43,56,20,10,3,5.25,6.8,Yes,High School,89.15,A
+601,Male,86,2,33,64,90,14,4,9.96,7.5,Yes,Post Graduate,94.9,A
+602,Female,66,11,72,37,58,10,2,8.67,5.9,Yes,Graduate,100.0,A
+603,Male,76,15,41,62,66,13,3,8.37,5.6,No,High School,95.71,A
+604,Male,49,10,30,42,84,19,8,6.56,6.2,No,Post Graduate,93.47,A
+605,Male,55,12,34,54,68,16,8,8.3,6.7,Yes,Graduate,99.44,A
+606,Female,100,4,54,41,54,12,3,7.91,8.1,Yes,Post Graduate,94.56,A
+607,Male,66,11,80,87,83,6,11,4.06,4.7,No,Graduate,89.27,A
+608,Female,89,13,79,65,43,11,0,7.25,7.1,Yes,Post Graduate,100.0,A
+609,Female,59,8,57,49,61,11,4,6.03,8.7,Yes,High School,92.44,A
+610,Female,72,11,71,100,57,2,13,8.46,5.4,Yes,High School,100.0,A
+611,Male,96,1,66,56,27,22,11,9.14,7.4,Yes,Graduate,93.8,A
+612,Female,82,6,77,60,63,11,6,6.38,5.0,No,High School,94.17,A
+613,Male,83,18,30,72,54,1,5,7.52,4.5,No,High School,100.0,A
+614,Male,66,11,34,85,95,20,11,7.71,7.3,Yes,Post Graduate,100.0,A
+615,Male,73,16,78,75,41,7,10,7.94,5.0,Yes,Post Graduate,100.0,A
+616,Male,98,12,58,100,81,22,13,7.6,4.3,Yes,Graduate,100.0,A
+617,Female,64,2,68,59,36,9,2,8.87,4.3,Yes,Graduate,85.04,A
+618,Female,82,6,86,76,53,3,4,7.73,6.7,Yes,Post Graduate,100.0,A
+619,Male,47,18,77,93,66,5,7,5.61,6.5,Yes,High School,100.0,A
+620,Male,51,14,79,30,68,3,4,4.78,5.9,Yes,Graduate,91.96,A
+621,Female,61,7,95,53,30,8,11,7.95,5.4,No,Post Graduate,91.55,A
+622,Male,68,16,36,63,90,10,14,9.13,7.2,Yes,Post Graduate,100.0,A
+623,Female,55,2,92,58,85,15,6,4.4,9.0,Yes,Post Graduate,97.91,A
+624,Male,46,9,99,99,80,6,8,5.5,7.3,Yes,Graduate,100.0,A
+625,Male,63,4,82,99,76,4,12,5.61,6.5,Yes,High School,92.27,A
+626,Male,72,11,89,94,71,2,1,4.16,5.4,Yes,High School,100.0,A
+627,Male,80,5,50,82,36,21,12,5.1,6.9,Yes,Graduate,95.16,A
+628,Female,81,7,57,43,75,3,0,4.47,7.5,Yes,High School,93.5,A
+629,Female,72,8,27,48,85,14,5,4.52,7.3,Yes,High School,88.02,A
+630,Male,68,3,87,77,82,13,11,5.51,8.6,Yes,High School,100.0,A
+631,Female,67,20,88,86,93,9,10,8.91,8.5,Yes,Post Graduate,100.0,A
+632,Female,81,6,89,35,69,21,8,5.2,5.9,Yes,Graduate,94.58,A
+633,Female,50,3,89,89,65,3,9,8.85,7.5,Yes,Post Graduate,93.46,A
+634,Male,77,13,42,70,77,23,7,6.74,7.0,Yes,Graduate,100.0,A
+635,Male,82,15,27,72,50,5,2,4.54,6.5,No,Graduate,81.83,B
+636,Male,62,20,26,72,45,6,5,4.39,7.6,Yes,High School,98.77,A
+637,Female,63,2,44,90,40,23,3,5.99,7.7,Yes,Graduate,91.12,A
+638,Female,49,11,48,89,74,12,7,7.14,8.4,Yes,Graduate,100.0,A
+639,Male,45,17,99,80,54,10,12,8.16,4.1,Yes,High School,100.0,A
+640,Female,86,14,100,76,61,9,9,7.97,5.8,Yes,High School,100.0,A
+641,Female,74,7,95,81,28,21,1,9.11,8.0,Yes,High School,100.0,A
+642,Male,66,18,100,72,58,8,5,4.54,6.2,Yes,High School,100.0,A
+643,Male,95,5,61,93,81,7,12,7.3,8.3,Yes,Graduate,100.0,A
+644,Female,100,4,61,33,96,24,12,4.02,5.2,Yes,Graduate,96.67,A
+645,Male,63,9,52,64,29,0,9,8.08,4.4,No,High School,82.3,B
+646,Female,85,7,80,52,44,8,5,7.43,9.0,Yes,High School,89.58,A
+647,Female,95,6,61,60,60,13,3,5.39,8.4,Yes,High School,97.04,A
+648,Male,66,12,75,71,48,17,9,4.33,5.8,Yes,Post Graduate,100.0,A
+649,Female,48,20,34,63,67,0,1,6.46,5.7,Yes,High School,95.38,A
+650,Male,72,16,41,42,33,10,11,5.32,6.3,Yes,High School,99.37,A
+651,Male,91,9,34,37,40,12,10,5.08,4.5,Yes,High School,79.54,B
+652,Female,80,3,33,63,62,9,13,8.49,5.2,Yes,Graduate,88.61,A
+653,Female,60,12,25,77,69,12,14,7.07,8.6,Yes,Post Graduate,100.0,A
+654,Female,97,11,44,49,40,17,8,8.32,7.7,No,Post Graduate,92.86,A
+655,Male,75,10,92,90,80,5,13,9.13,6.2,No,High School,100.0,A
+656,Male,73,11,54,54,94,6,9,5.36,8.4,Yes,High School,100.0,A
+657,Male,80,15,37,95,85,15,8,9.75,6.5,Yes,Graduate,100.0,A
+658,Female,92,2,78,69,47,4,8,4.06,4.4,Yes,Graduate,74.33,B
+659,Male,91,11,38,67,31,12,0,4.9,6.5,Yes,High School,87.82,A
+660,Male,78,17,78,60,77,7,9,8.81,6.6,Yes,Post Graduate,100.0,A
+661,Female,52,8,27,96,100,3,0,8.81,5.9,Yes,High School,92.87,A
+662,Female,96,8,28,56,63,7,5,6.47,8.7,Yes,Post Graduate,100.0,A
+663,Male,57,9,28,77,45,5,9,4.56,6.1,Yes,High School,70.74,B
+664,Female,97,2,34,87,92,0,13,8.04,4.2,Yes,Graduate,92.76,A
+665,Female,57,15,40,95,100,10,7,4.56,6.3,Yes,Post Graduate,100.0,A
+666,Male,87,17,75,62,49,11,14,9.22,6.1,Yes,High School,100.0,A
+667,Male,89,15,95,44,65,5,13,6.48,6.7,Yes,Graduate,100.0,A
+668,Male,63,2,46,49,52,7,8,9.01,8.2,No,High School,81.56,B
+669,Female,69,8,40,77,80,14,0,5.44,4.4,No,Post Graduate,90.35,A
+670,Female,93,7,89,86,46,10,0,6.21,7.5,Yes,Post Graduate,100.0,A
+671,Female,91,5,100,59,39,4,2,4.09,4.8,Yes,Post Graduate,82.18,B
+672,Male,80,1,42,92,70,8,12,7.62,6.5,Yes,High School,93.92,A
+673,Male,68,4,34,49,94,11,13,5.59,6.2,No,High School,80.4,B
+674,Male,53,18,86,78,33,0,0,6.92,8.4,Yes,Post Graduate,100.0,A
+675,Male,67,9,74,45,52,1,13,7.34,6.0,No,Graduate,86.34,A
+676,Male,73,15,79,44,91,1,1,4.93,4.9,Yes,Post Graduate,94.42,A
+677,Female,48,14,87,94,87,0,0,7.43,4.0,Yes,Post Graduate,100.0,A
+678,Female,63,13,35,88,34,9,8,9.97,6.4,Yes,High School,100.0,A
+679,Male,75,12,34,92,66,5,6,9.34,4.0,No,Post Graduate,93.81,A
+680,Male,75,7,82,39,29,15,12,6.5,7.6,Yes,Post Graduate,97.0,A
+681,Male,59,20,80,97,28,6,9,8.21,4.6,Yes,Graduate,100.0,A
+682,Female,74,1,40,51,76,17,10,8.51,8.6,Yes,Post Graduate,97.97,A
+683,Male,67,10,81,38,50,6,8,4.76,8.7,Yes,Post Graduate,93.66,A
+684,Female,79,15,30,61,71,18,0,5.44,5.4,Yes,Graduate,100.0,A
+685,Female,63,11,39,35,92,4,3,8.38,6.1,Yes,Post Graduate,96.07,A
+686,Male,100,6,82,42,62,11,2,6.27,7.7,Yes,High School,98.03,A
+687,Female,72,14,53,46,87,11,12,8.68,7.9,Yes,Post Graduate,100.0,A
+688,Male,93,6,50,56,37,21,0,5.06,8.1,Yes,High School,95.3,A
+689,Male,95,15,32,67,75,14,9,9.25,4.4,No,Graduate,98.79,A
+690,Male,63,20,47,77,59,5,5,8.69,4.5,Yes,Post Graduate,100.0,A
+691,Female,71,15,37,40,43,8,9,4.66,8.7,Yes,High School,90.58,A
+692,Female,53,3,79,43,77,24,14,9.81,7.9,Yes,Graduate,100.0,A
+693,Male,68,5,63,92,98,0,7,5.93,6.2,Yes,Graduate,90.37,A
+694,Female,61,4,80,50,32,8,10,5.95,8.1,Yes,Post Graduate,90.94,A
+695,Female,66,5,71,76,88,3,1,4.88,4.1,No,Graduate,89.68,A
+696,Male,45,15,57,67,44,12,10,9.29,6.6,Yes,High School,100.0,A
+697,Male,92,8,73,76,75,0,11,8.33,4.4,Yes,High School,100.0,A
+698,Female,73,18,26,85,36,13,3,6.24,7.3,No,Post Graduate,94.85,A
+699,Male,87,18,92,79,56,13,9,7.16,5.5,Yes,High School,100.0,A
+700,Male,78,1,97,46,80,14,13,8.88,7.7,Yes,Post Graduate,100.0,A
+701,Female,56,14,55,61,51,8,10,9.65,6.6,No,Post Graduate,100.0,A
+702,Female,99,17,99,59,41,20,10,8.66,6.8,Yes,High School,100.0,A
+703,Male,70,4,43,74,45,21,6,9.25,7.5,Yes,Post Graduate,96.31,A
+704,Male,82,9,99,90,99,15,10,8.05,7.2,Yes,High School,100.0,A
+705,Female,61,7,91,59,32,18,6,4.54,6.2,Yes,High School,98.8,A
+706,Male,55,1,35,62,26,15,13,7.54,6.8,Yes,Post Graduate,78.28,B
+707,Male,61,6,73,79,100,11,6,6.81,6.5,Yes,Post Graduate,98.04,A
+708,Male,99,13,100,30,40,18,4,8.13,8.3,Yes,Graduate,100.0,A
+709,Male,84,15,93,97,47,20,3,6.82,5.8,Yes,Graduate,100.0,A
+710,Male,62,1,59,93,77,11,0,9.38,5.1,Yes,High School,99.65,A
+711,Female,73,4,38,62,41,15,2,9.05,7.8,Yes,Post Graduate,89.01,A
+712,Female,79,6,35,58,79,2,0,9.76,5.6,Yes,Graduate,91.49,A
+713,Male,93,14,68,45,96,5,0,9.01,8.2,Yes,High School,100.0,A
+714,Male,75,16,70,81,29,23,9,7.27,4.0,Yes,Graduate,100.0,A
+715,Male,93,19,37,98,86,6,7,9.15,7.5,Yes,Graduate,100.0,A
+716,Female,77,5,96,81,23,1,4,4.75,4.6,Yes,High School,74.59,B
+717,Female,48,7,78,62,52,7,3,5.35,6.5,Yes,Post Graduate,74.75,B
+718,Male,86,12,89,32,28,9,2,9.75,8.7,Yes,High School,100.0,A
+719,Female,94,9,37,31,90,15,14,6.3,8.2,Yes,High School,100.0,A
+720,Male,86,5,33,54,21,18,13,6.51,7.7,Yes,High School,90.96,A
+721,Male,82,4,27,80,45,23,3,9.13,6.7,Yes,High School,87.48,A
+722,Female,70,14,61,100,52,22,12,9.36,8.6,Yes,Graduate,100.0,A
+723,Male,78,19,80,43,52,9,13,5.34,8.7,No,High School,100.0,A
+724,Male,53,9,97,56,36,11,8,6.3,5.1,Yes,High School,100.0,A
+725,Female,56,6,65,84,24,15,1,9.99,8.4,Yes,Post Graduate,100.0,A
+726,Female,99,8,74,62,37,24,6,5.13,7.1,Yes,Graduate,97.69,A
+727,Male,87,16,56,67,41,15,3,7.83,4.3,No,High School,100.0,A
+728,Male,56,9,27,62,69,23,11,4.87,6.0,Yes,High School,88.25,A
+729,Male,61,2,70,96,88,13,2,4.26,5.6,Yes,Post Graduate,89.67,A
+730,Female,60,9,79,90,100,22,5,5.2,5.6,Yes,Graduate,100.0,A
+731,Male,97,11,32,88,84,16,11,8.3,7.3,Yes,Graduate,100.0,A
+732,Male,49,5,54,35,38,15,4,8.16,8.4,Yes,High School,80.78,B
+733,Male,91,14,96,72,55,9,14,7.14,5.5,Yes,Post Graduate,100.0,A
+734,Male,59,8,91,59,94,10,0,7.72,7.6,Yes,High School,100.0,A
+735,Female,75,19,27,65,62,14,0,8.07,6.1,No,High School,100.0,A
+736,Male,58,8,92,76,73,3,13,7.22,8.2,Yes,Post Graduate,100.0,A
+737,Male,90,10,61,52,46,5,9,4.85,7.2,Yes,Post Graduate,96.48,A
+738,Female,82,16,79,84,70,10,11,7.16,4.7,Yes,Graduate,100.0,A
+739,Female,60,6,83,48,47,7,13,4.98,7.4,Yes,Post Graduate,98.9,A
+740,Male,69,20,85,95,61,0,3,4.95,7.4,No,Graduate,100.0,A
+741,Female,77,10,85,75,80,17,5,7.36,4.1,Yes,Post Graduate,100.0,A
+742,Male,66,19,81,42,66,22,13,6.82,8.3,Yes,Graduate,100.0,A
+743,Female,79,10,95,75,54,12,12,9.6,7.2,No,Post Graduate,100.0,A
+744,Male,63,14,37,50,20,18,12,5.32,6.1,No,High School,90.18,A
+745,Female,79,6,94,84,76,11,6,5.58,4.2,Yes,Graduate,98.96,A
+746,Male,81,18,68,56,45,24,6,4.34,4.5,Yes,Post Graduate,100.0,A
+747,Female,81,2,63,90,82,17,0,7.25,7.6,Yes,Graduate,90.6,A
+748,Female,92,20,28,67,82,14,0,5.24,8.5,Yes,Graduate,100.0,A
+749,Male,85,3,37,64,62,1,7,8.92,7.1,No,Graduate,87.79,A
+750,Female,59,8,61,95,74,12,7,4.82,5.0,Yes,Graduate,92.07,A
+751,Male,100,12,81,35,51,11,9,6.58,8.9,Yes,Post Graduate,100.0,A
+752,Female,61,2,76,51,23,24,3,6.5,7.7,Yes,Post Graduate,88.56,A
+753,Female,75,13,59,45,98,10,1,5.9,6.0,Yes,Post Graduate,100.0,A
+754,Male,98,3,52,38,95,14,4,9.31,6.9,Yes,Post Graduate,100.0,A
+755,Male,57,12,89,54,66,15,10,8.02,7.7,Yes,High School,100.0,A
+756,Male,70,13,95,41,51,21,3,5.9,5.6,No,Post Graduate,100.0,A
+757,Male,97,15,64,43,88,22,12,9.86,4.2,Yes,Post Graduate,100.0,A
+758,Female,85,17,41,85,64,11,13,8.74,7.3,No,Post Graduate,100.0,A
+759,Female,70,15,62,32,99,1,14,8.99,4.8,Yes,High School,100.0,A
+760,Male,81,19,77,59,22,10,6,4.92,8.6,Yes,High School,100.0,A
+761,Male,59,5,51,37,51,19,9,5.94,8.2,Yes,High School,87.55,A
+762,Female,65,12,35,31,69,8,1,5.64,5.0,Yes,Graduate,81.56,B
+763,Female,64,18,35,46,45,23,8,6.43,4.3,Yes,Post Graduate,100.0,A
+764,Male,79,12,96,95,25,21,9,8.34,5.0,Yes,Graduate,100.0,A
+765,Female,73,9,76,75,53,4,3,5.37,6.6,Yes,Graduate,100.0,A
+766,Female,69,14,27,39,46,11,6,9.88,5.3,No,Post Graduate,91.55,A
+767,Male,77,5,71,64,84,7,11,4.83,4.6,Yes,Post Graduate,97.42,A
+768,Female,45,19,94,37,87,4,8,5.97,8.3,Yes,Graduate,100.0,A
+769,Male,91,5,80,95,78,6,0,8.92,5.0,Yes,Graduate,100.0,A
+770,Female,67,9,82,39,34,9,12,9.71,5.8,Yes,High School,100.0,A
+771,Female,60,4,72,80,89,9,3,5.44,5.9,Yes,Graduate,90.76,A
+772,Female,47,20,98,89,82,0,3,8.9,8.9,Yes,Post Graduate,100.0,A
+773,Male,48,7,34,86,85,20,1,7.0,5.5,Yes,Graduate,88.77,A
+774,Male,83,9,43,45,73,24,1,9.94,7.4,Yes,High School,100.0,A
+775,Female,76,13,85,80,28,11,1,7.37,6.4,Yes,High School,100.0,A
+776,Male,73,10,85,80,29,5,13,9.71,4.1,Yes,Post Graduate,98.13,A
+777,Female,91,19,74,33,67,23,2,5.09,7.6,Yes,Graduate,100.0,A
+778,Female,85,17,71,83,74,18,13,6.62,5.0,Yes,Graduate,100.0,A
+779,Female,84,19,79,86,25,0,7,5.19,4.7,Yes,Post Graduate,100.0,A
+780,Male,56,1,95,46,80,9,14,9.24,6.0,Yes,Graduate,91.35,A
+781,Male,93,16,96,58,51,23,10,8.1,4.0,No,High School,100.0,A
+782,Female,61,1,87,63,29,19,6,8.56,4.1,Yes,Graduate,83.68,B
+783,Male,92,19,36,50,61,21,1,4.59,8.5,Yes,High School,100.0,A
+784,Female,66,6,76,50,90,24,12,7.54,4.5,Yes,Graduate,100.0,A
+785,Male,49,4,42,85,43,1,12,6.72,7.4,Yes,High School,79.61,B
+786,Female,67,18,60,62,83,15,7,5.08,4.7,Yes,Graduate,100.0,A
+787,Male,75,12,72,60,82,9,6,7.63,6.4,Yes,Graduate,100.0,A
+788,Male,73,10,97,77,93,18,7,6.53,6.0,Yes,High School,100.0,A
+789,Male,51,16,43,35,30,11,12,4.11,4.4,Yes,Graduate,84.63,B
+790,Female,81,12,64,83,21,17,8,4.12,6.4,Yes,Post Graduate,98.71,A
+791,Male,49,12,25,73,41,5,2,6.03,6.1,Yes,Post Graduate,75.51,B
+792,Male,67,3,79,87,82,19,6,5.11,5.7,Yes,Graduate,100.0,A
+793,Female,97,19,77,53,40,3,7,6.79,7.7,Yes,High School,100.0,A
+794,Female,48,8,99,46,76,10,11,4.75,4.1,No,Post Graduate,87.34,A
+795,Male,92,15,30,100,53,11,4,8.98,4.2,Yes,High School,100.0,A
+796,Female,87,9,77,58,89,24,8,8.88,4.7,Yes,High School,100.0,A
+797,Female,65,4,62,70,100,13,6,4.68,4.8,Yes,High School,94.83,A
+798,Male,74,2,66,40,46,23,2,4.96,5.7,Yes,Post Graduate,86.73,A
+799,Male,67,12,73,60,41,11,11,6.0,7.0,No,High School,100.0,A
+800,Male,80,6,64,53,67,4,4,5.9,8.2,Yes,Post Graduate,93.91,A
+801,Male,73,20,30,36,56,20,1,7.06,5.9,Yes,Post Graduate,100.0,A
+802,Male,70,20,32,70,22,4,3,5.52,5.1,Yes,Graduate,99.39,A
+803,Male,80,8,75,34,96,15,0,4.18,7.6,Yes,Graduate,95.28,A
+804,Female,71,20,86,56,64,8,11,6.5,4.9,Yes,Graduate,100.0,A
+805,Male,52,16,38,94,99,17,6,9.38,7.2,Yes,High School,100.0,A
+806,Male,79,1,40,37,64,7,0,7.2,7.2,Yes,Post Graduate,76.81,B
+807,Male,71,15,30,84,63,17,11,4.31,8.5,Yes,Graduate,100.0,A
+808,Female,83,15,53,74,96,8,7,9.59,7.6,Yes,High School,100.0,A
+809,Male,85,14,100,65,80,7,0,6.81,8.7,Yes,Graduate,100.0,A
+810,Female,51,1,27,80,98,21,9,7.99,7.5,Yes,High School,96.13,A
+811,Female,66,17,75,79,30,23,6,8.13,5.6,Yes,High School,100.0,A
+812,Male,49,13,75,91,56,5,6,7.22,4.1,Yes,High School,100.0,A
+813,Male,75,8,49,44,54,16,10,8.72,6.7,Yes,Graduate,98.96,A
+814,Female,56,1,48,49,88,5,13,9.16,7.0,Yes,Post Graduate,93.66,A
+815,Male,90,12,68,44,68,20,14,6.43,7.4,Yes,Post Graduate,100.0,A
+816,Male,96,9,77,86,71,10,10,7.25,8.6,Yes,Post Graduate,100.0,A
+817,Male,85,16,65,33,21,13,2,10.0,5.3,Yes,High School,100.0,A
+818,Male,62,19,27,78,36,22,6,8.66,8.0,Yes,Post Graduate,100.0,A
+819,Male,72,3,28,60,64,12,10,9.57,4.3,Yes,Post Graduate,87.92,A
+820,Female,70,10,96,93,41,14,10,5.5,7.2,Yes,Post Graduate,100.0,A
+821,Male,97,1,26,87,38,13,7,9.89,7.8,Yes,High School,93.04,A
+822,Female,62,20,84,63,79,6,7,8.12,7.4,No,Graduate,100.0,A
+823,Male,89,14,59,96,29,14,10,7.63,8.1,Yes,High School,100.0,A
+824,Female,100,5,72,100,20,11,4,5.18,6.1,Yes,Graduate,100.0,A
+825,Male,78,4,88,45,29,12,1,6.6,6.1,No,Post Graduate,88.5,A
+826,Male,82,15,47,75,47,9,14,6.99,5.1,Yes,Post Graduate,100.0,A
+827,Male,54,19,52,57,38,4,6,4.06,8.0,No,High School,96.73,A
+828,Female,48,5,63,63,63,9,7,8.74,4.1,Yes,High School,80.66,B
+829,Female,70,3,95,39,76,0,5,8.49,8.5,Yes,Graduate,97.1,A
+830,Female,88,2,72,48,91,6,0,4.19,5.3,Yes,High School,76.25,B
+831,Female,68,2,55,59,95,11,11,7.74,7.3,Yes,Post Graduate,99.13,A
+832,Male,52,20,96,100,97,1,8,4.72,6.1,Yes,Post Graduate,100.0,A
+833,Male,90,15,26,90,95,24,3,8.56,6.4,Yes,Graduate,100.0,A
+834,Female,61,14,52,83,93,2,3,6.31,7.7,Yes,Post Graduate,100.0,A
+835,Male,74,20,50,51,40,0,4,4.76,6.0,No,Post Graduate,94.96,A
+836,Female,56,6,77,45,24,8,13,8.64,5.7,Yes,Graduate,79.04,B
+837,Male,97,13,53,48,66,7,6,6.97,7.7,Yes,Graduate,100.0,A
+838,Female,96,20,90,30,77,18,11,5.55,6.4,Yes,Graduate,100.0,A
+839,Female,58,5,65,69,53,15,12,7.63,4.4,Yes,High School,90.65,A
+840,Female,91,4,31,61,86,6,12,7.76,5.5,Yes,Graduate,92.23,A
+841,Female,82,10,99,61,64,5,7,5.57,5.7,Yes,Graduate,100.0,A
+842,Male,83,13,54,78,60,19,12,9.12,5.2,Yes,Graduate,100.0,A
+843,Male,49,19,66,47,51,20,9,9.52,6.4,Yes,Graduate,100.0,A
+844,Male,63,14,95,55,65,21,11,4.08,7.5,Yes,High School,100.0,A
+845,Male,73,18,59,76,24,6,10,7.36,4.8,Yes,Post Graduate,100.0,A
+846,Female,89,10,57,91,98,15,11,8.14,7.6,Yes,Graduate,100.0,A
+847,Male,78,12,33,92,91,13,0,4.45,8.7,Yes,Graduate,100.0,A
+848,Male,95,16,54,58,27,11,8,4.89,6.1,Yes,Graduate,100.0,A
+849,Male,50,10,85,41,32,18,11,7.16,4.2,Yes,High School,96.31,A
+850,Female,67,14,30,52,79,10,11,6.53,7.6,Yes,Graduate,99.21,A
+851,Female,96,8,32,90,27,7,0,5.88,6.3,Yes,Graduate,84.98,B
+852,Female,99,19,29,42,47,19,0,5.65,8.1,Yes,Graduate,100.0,A
+853,Male,81,4,66,34,83,17,9,9.12,5.3,Yes,Post Graduate,100.0,A
+854,Male,93,9,62,51,68,3,12,7.65,6.0,Yes,High School,100.0,A
+855,Female,88,4,31,37,47,12,10,8.56,7.9,Yes,Post Graduate,89.91,A
+856,Male,94,17,59,30,48,18,12,7.35,7.1,Yes,High School,100.0,A
+857,Male,89,17,64,42,71,4,1,7.15,7.6,No,Graduate,100.0,A
+858,Male,64,9,83,98,52,5,7,6.2,4.4,No,Graduate,89.34,A
+859,Female,71,6,83,35,42,9,2,8.77,4.6,Yes,Graduate,88.58,A
+860,Male,100,6,86,36,90,17,3,8.26,5.8,Yes,Graduate,100.0,A
+861,Female,89,18,46,42,31,9,0,4.87,5.6,Yes,High School,94.98,A
+862,Female,74,4,50,63,27,9,6,4.67,8.2,Yes,High School,74.3,B
+863,Female,97,18,47,91,65,22,2,9.53,8.3,Yes,Post Graduate,100.0,A
+864,Male,88,15,33,92,53,16,10,7.09,4.5,Yes,Post Graduate,100.0,A
+865,Male,78,16,36,52,98,0,8,8.23,7.7,Yes,High School,100.0,A
+866,Male,57,5,84,50,43,17,4,6.93,7.5,Yes,High School,88.86,A
+867,Female,67,4,58,99,47,2,6,8.3,4.7,No,High School,80.97,B
+868,Female,89,18,36,76,86,15,0,7.74,6.8,No,Post Graduate,100.0,A
+869,Male,88,15,26,68,64,0,5,9.77,6.1,Yes,Post Graduate,100.0,A
+870,Female,96,10,70,57,62,22,1,8.76,5.8,Yes,Graduate,100.0,A
+871,Male,86,5,98,50,43,5,2,6.52,6.5,Yes,Graduate,86.93,A
+872,Male,78,10,44,97,64,11,10,7.94,5.1,Yes,High School,100.0,A
+873,Male,78,9,94,47,97,18,13,6.21,8.8,Yes,Post Graduate,100.0,A
+874,Female,97,4,31,34,43,10,0,5.64,5.0,Yes,High School,67.67,C
+875,Male,92,3,89,60,45,16,7,8.21,7.6,Yes,High School,100.0,A
+876,Female,75,15,95,65,33,23,13,9.6,4.4,Yes,Graduate,100.0,A
+877,Male,63,3,100,83,88,9,8,8.78,4.0,Yes,Graduate,100.0,A
+878,Male,84,13,68,91,87,0,12,5.6,8.5,Yes,Post Graduate,100.0,A
+879,Female,50,12,65,54,22,2,3,9.57,6.3,Yes,Graduate,84.37,B
+880,Female,71,12,37,64,66,21,11,6.96,8.6,Yes,High School,100.0,A
+881,Male,65,14,84,52,48,14,13,5.96,5.2,No,Graduate,100.0,A
+882,Female,47,10,41,40,67,4,4,4.88,5.4,Yes,Post Graduate,75.15,B
+883,Male,60,14,80,33,67,23,0,4.14,4.4,Yes,High School,97.53,A
+884,Female,54,9,60,58,97,3,11,6.8,7.1,Yes,Graduate,100.0,A
+885,Male,62,1,45,86,88,5,5,7.25,4.4,Yes,Post Graduate,80.63,B
+886,Female,100,5,86,55,85,11,5,4.99,5.8,Yes,Post Graduate,93.56,A
+887,Male,45,10,76,53,72,10,7,8.71,8.7,Yes,Graduate,100.0,A
+888,Male,49,18,27,99,26,17,13,9.43,5.7,Yes,Post Graduate,100.0,A
+889,Male,71,5,29,89,89,1,5,6.77,7.4,No,High School,88.36,A
+890,Female,60,19,99,84,20,20,9,7.08,6.9,No,High School,100.0,A
+891,Female,86,7,49,67,43,23,11,4.42,8.0,Yes,Graduate,100.0,A
+892,Male,84,10,100,37,98,11,10,7.92,8.6,Yes,High School,100.0,A
+893,Male,95,9,63,94,90,6,3,9.27,8.1,Yes,Post Graduate,100.0,A
+894,Male,75,7,51,83,23,23,6,4.14,7.4,Yes,Post Graduate,85.82,A
+895,Female,61,10,73,50,72,22,5,4.52,7.5,Yes,Graduate,100.0,A
+896,Male,57,3,26,45,25,12,6,9.55,6.7,Yes,High School,73.22,B
+897,Male,74,16,82,49,53,4,1,9.55,5.8,Yes,High School,100.0,A
+898,Female,64,16,78,77,25,1,14,5.43,5.9,Yes,High School,94.08,A
+899,Female,76,18,77,43,71,24,3,9.33,5.4,Yes,High School,100.0,A
+900,Male,65,17,57,60,40,3,0,6.68,6.3,No,Post Graduate,87.05,A
+901,Male,89,4,93,52,35,21,4,8.14,8.4,Yes,Post Graduate,99.61,A
+902,Male,89,15,91,53,29,8,12,8.52,4.5,Yes,Post Graduate,100.0,A
+903,Male,96,16,77,69,39,23,14,6.09,4.9,Yes,High School,100.0,A
+904,Female,83,8,78,41,100,4,13,6.78,4.4,Yes,Post Graduate,100.0,A
+905,Male,81,12,55,72,96,15,14,5.83,8.1,Yes,Graduate,100.0,A
+906,Male,98,20,37,73,66,6,10,5.71,5.8,No,Graduate,100.0,A
+907,Male,81,2,82,81,48,2,10,6.51,6.2,Yes,High School,88.87,A
+908,Female,63,4,95,73,79,4,6,6.5,6.3,No,Post Graduate,89.07,A
+909,Female,45,3,42,79,49,1,4,8.96,4.5,Yes,Graduate,82.72,B
+910,Female,52,17,55,41,40,11,9,7.72,8.5,Yes,Post Graduate,100.0,A
+911,Female,94,1,35,84,21,0,14,8.12,5.8,Yes,High School,75.01,B
+912,Female,65,16,30,96,60,10,4,4.92,6.1,Yes,Graduate,100.0,A
+913,Female,48,8,98,95,59,5,1,6.38,5.3,No,High School,86.86,A
+914,Male,57,12,33,97,58,23,12,5.37,6.5,Yes,Graduate,100.0,A
+915,Male,48,19,76,68,27,16,12,5.48,8.5,No,Graduate,100.0,A
+916,Male,82,7,45,76,67,24,12,6.32,6.8,Yes,Graduate,100.0,A
+917,Male,61,4,69,48,83,4,1,4.63,7.3,Yes,High School,79.74,B
+918,Male,68,17,64,95,63,22,5,4.97,6.1,Yes,Post Graduate,100.0,A
+919,Male,73,5,47,37,95,13,9,8.19,8.6,No,Post Graduate,100.0,A
+920,Male,65,9,98,65,22,8,7,5.83,7.7,Yes,High School,97.11,A
+921,Male,66,19,94,55,40,3,7,4.84,6.6,Yes,Graduate,100.0,A
+922,Female,48,14,44,42,22,17,13,5.54,4.1,No,Graduate,77.83,B
+923,Female,47,13,71,79,97,20,9,7.31,5.2,Yes,High School,100.0,A
+924,Female,97,20,76,40,46,13,5,9.8,8.7,Yes,High School,100.0,A
+925,Female,90,18,33,46,77,12,1,6.99,5.1,Yes,High School,100.0,A
+926,Male,73,10,74,34,91,13,4,9.8,8.1,Yes,Post Graduate,100.0,A
+927,Male,47,12,88,91,25,18,1,8.36,6.6,Yes,Graduate,100.0,A
+928,Male,56,12,87,71,83,21,13,5.84,4.2,Yes,Graduate,100.0,A
+929,Male,48,2,68,96,87,5,11,5.49,4.4,Yes,High School,92.58,A
+930,Female,59,2,99,40,27,22,5,8.53,5.3,Yes,Post Graduate,94.19,A
+931,Female,78,19,95,60,59,13,6,4.21,6.1,Yes,High School,100.0,A
+932,Male,72,18,44,65,46,7,0,4.12,5.3,Yes,High School,96.97,A
+933,Female,53,20,62,89,20,24,4,6.49,8.7,Yes,Graduate,100.0,A
+934,Female,54,3,31,42,87,17,10,5.56,7.3,Yes,Post Graduate,92.6,A
+935,Female,86,5,95,54,86,3,9,6.12,7.2,No,Graduate,96.02,A
+936,Male,96,19,42,87,63,24,0,7.97,6.0,Yes,High School,100.0,A
+937,Male,86,4,37,94,35,22,8,8.38,8.1,Yes,Graduate,100.0,A
+938,Female,56,1,79,86,90,8,5,7.17,7.7,No,Graduate,86.03,A
+939,Male,65,14,26,99,52,8,5,8.84,7.5,Yes,High School,100.0,A
+940,Male,62,19,62,61,85,12,6,4.35,5.9,Yes,Graduate,100.0,A
+941,Female,61,8,58,98,67,7,2,8.04,8.5,Yes,Post Graduate,100.0,A
+942,Female,100,18,51,57,99,19,12,8.31,7.4,No,High School,100.0,A
+943,Female,80,9,71,80,95,20,9,9.5,6.0,No,Graduate,100.0,A
+944,Male,78,14,46,46,34,17,12,9.22,7.0,Yes,Post Graduate,100.0,A
+945,Male,79,16,52,30,60,15,14,5.87,6.8,Yes,Post Graduate,100.0,A
+946,Female,70,13,63,74,97,16,11,4.32,4.1,Yes,Post Graduate,100.0,A
+947,Male,100,4,78,63,47,17,1,7.41,8.6,Yes,Graduate,97.93,A
+948,Female,54,5,65,81,68,5,9,7.3,6.5,Yes,Graduate,88.32,A
+949,Male,83,2,85,75,88,17,10,7.41,8.2,Yes,High School,100.0,A
+950,Male,78,19,92,53,58,21,6,9.72,7.0,Yes,Graduate,100.0,A
+951,Female,91,14,59,46,61,14,12,9.44,8.2,No,Graduate,100.0,A
+952,Male,83,4,61,43,46,18,14,5.9,8.7,Yes,High School,89.95,A
+953,Female,55,4,96,75,78,1,10,7.75,6.1,Yes,High School,98.62,A
+954,Male,71,8,32,89,91,22,1,4.21,7.5,No,Post Graduate,97.64,A
+955,Male,66,17,51,93,21,12,0,9.76,5.0,Yes,Graduate,100.0,A
+956,Male,61,12,89,96,65,7,10,7.72,5.2,Yes,Post Graduate,100.0,A
+957,Male,48,16,75,34,74,4,3,7.15,6.4,Yes,Graduate,93.73,A
+958,Female,69,18,79,82,69,7,10,4.89,7.3,No,Graduate,100.0,A
+959,Male,79,15,43,74,56,21,5,5.82,8.9,Yes,Graduate,100.0,A
+960,Female,77,2,49,89,98,23,14,8.6,6.1,Yes,Graduate,100.0,A
+961,Female,64,19,86,69,58,19,11,6.92,8.9,Yes,Graduate,100.0,A
+962,Female,80,17,47,42,42,24,13,8.22,5.1,Yes,Post Graduate,100.0,A
+963,Male,47,2,57,75,100,12,2,5.71,4.1,Yes,Post Graduate,90.87,A
+964,Male,76,8,51,31,99,6,5,8.31,4.4,Yes,Graduate,100.0,A
+965,Female,58,6,52,93,90,17,7,7.74,6.3,Yes,High School,100.0,A
+966,Female,100,7,78,37,74,4,11,6.22,4.4,Yes,Post Graduate,92.19,A
+967,Female,100,20,92,50,37,6,14,6.86,6.5,Yes,High School,100.0,A
+968,Female,79,17,97,81,31,18,5,9.49,4.6,Yes,Graduate,100.0,A
+969,Male,52,2,97,99,98,18,4,7.25,7.4,Yes,Graduate,100.0,A
+970,Male,88,17,31,68,87,2,2,4.58,4.1,Yes,Graduate,100.0,A
+971,Male,65,16,89,37,67,20,10,8.46,8.9,Yes,Post Graduate,100.0,A
+972,Male,84,20,75,98,60,7,10,7.87,7.6,Yes,Post Graduate,100.0,A
+973,Male,93,6,71,36,85,12,13,8.7,7.1,Yes,High School,100.0,A
+974,Male,47,5,69,37,48,1,8,8.03,7.0,Yes,High School,77.56,B
+975,Male,81,8,51,76,25,12,11,8.64,5.7,Yes,Post Graduate,89.91,A
+976,Male,88,11,60,48,25,24,14,4.78,7.8,No,Graduate,96.87,A
+977,Female,94,1,48,73,79,8,1,5.41,8.5,No,Post Graduate,77.34,B
+978,Male,60,1,69,94,30,5,3,4.25,6.4,Yes,Graduate,66.51,C
+979,Male,74,10,93,87,24,8,10,4.25,6.9,Yes,High School,99.63,A
+980,Female,59,17,50,54,96,0,8,8.28,4.8,Yes,Graduate,100.0,A
+981,Male,67,11,55,35,30,12,14,8.06,6.4,Yes,High School,93.07,A
+982,Female,51,15,35,53,86,5,9,5.55,7.6,Yes,Post Graduate,100.0,A
+983,Female,57,12,36,38,67,16,4,8.26,6.7,Yes,High School,94.39,A
+984,Female,98,17,73,89,84,24,14,7.3,5.5,Yes,Graduate,100.0,A
+985,Female,46,19,49,79,33,5,11,6.1,8.3,Yes,High School,100.0,A
+986,Female,93,2,40,43,50,1,3,5.21,5.4,Yes,High School,64.48,C
+987,Male,47,5,50,69,57,5,3,8.45,7.0,No,High School,78.29,B
+988,Female,82,16,45,35,60,14,11,9.99,6.5,Yes,Graduate,100.0,A
+989,Male,95,12,26,46,54,9,5,9.17,8.5,Yes,High School,100.0,A
+990,Female,52,12,98,80,60,24,7,6.54,7.1,Yes,High School,100.0,A
+991,Female,100,19,83,63,94,17,6,7.41,4.2,Yes,Post Graduate,100.0,A
+992,Female,45,20,92,53,55,12,1,6.3,4.8,Yes,Post Graduate,100.0,A
+993,Male,83,6,59,82,57,19,10,9.03,4.5,Yes,Post Graduate,100.0,A
+994,Female,55,2,38,53,78,6,9,6.74,5.7,No,Post Graduate,69.72,C
+995,Male,76,6,80,37,46,6,10,7.68,8.7,No,Graduate,81.09,B
+996,Male,83,10,98,83,48,5,8,5.01,6.1,Yes,High School,100.0,A
+997,Male,52,7,64,83,22,22,7,6.54,5.8,Yes,Graduate,97.26,A
+998,Male,100,19,75,83,100,21,11,6.99,8.8,Yes,Post Graduate,100.0,A
+999,Female,51,11,93,87,27,9,11,7.77,5.6,Yes,High School,100.0,A
+1000,Male,71,15,69,51,42,16,3,4.16,7.7,Yes,High School,98.9,A
+1001,Male,68,9,79,92,75,22,8,7.34,5.6,Yes,High School,100.0,A
+1002,Male,88,6,52,74,45,7,14,8.07,8.4,Yes,Graduate,99.03,A
+1003,Female,62,3,27,91,31,20,13,4.18,7.7,No,Graduate,75.69,B
+1004,Female,65,17,42,86,56,5,11,7.67,7.7,Yes,Graduate,100.0,A
+1005,Male,47,9,79,48,81,22,10,7.9,4.4,Yes,Graduate,100.0,A
+1006,Male,94,20,64,87,50,5,5,4.28,7.5,Yes,High School,100.0,A
+1007,Female,66,16,56,95,33,5,1,6.13,8.5,Yes,Graduate,100.0,A
+1008,Female,75,1,68,100,27,8,1,7.32,6.6,Yes,High School,87.17,A
+1009,Male,82,3,30,97,70,4,2,7.84,6.5,Yes,Graduate,85.28,A
+1010,Male,80,8,69,38,84,12,1,6.42,5.0,No,Graduate,92.43,A
+1011,Male,91,14,72,84,48,14,14,5.54,8.7,Yes,High School,100.0,A
+1012,Female,48,14,63,37,99,19,14,6.38,5.5,Yes,Graduate,100.0,A
+1013,Male,100,14,71,45,88,1,3,9.76,6.2,Yes,Post Graduate,100.0,A
+1014,Male,45,8,81,45,47,21,1,8.13,6.4,No,High School,85.05,A
+1015,Female,78,7,98,36,71,19,14,7.23,6.2,Yes,Graduate,100.0,A
+1016,Female,53,7,72,38,42,6,8,5.29,5.0,Yes,Post Graduate,71.42,B
+1017,Male,72,19,87,73,58,7,6,7.59,4.1,Yes,Graduate,100.0,A
+1018,Male,89,18,84,89,21,1,10,5.16,8.4,Yes,Post Graduate,100.0,A
+1019,Female,72,14,28,65,69,2,0,5.58,4.3,Yes,Post Graduate,96.68,A
+1020,Female,60,8,71,79,45,23,13,6.12,8.8,Yes,Graduate,100.0,A
+1021,Male,58,1,85,49,93,9,10,9.11,4.8,Yes,Post Graduate,95.75,A
+1022,Male,60,5,47,72,76,18,12,8.66,6.4,Yes,High School,100.0,A
+1023,Male,71,20,32,85,89,11,11,9.21,6.3,Yes,Graduate,100.0,A
+1024,Male,73,16,89,46,49,20,12,8.5,5.7,Yes,High School,100.0,A
+1025,Male,97,9,88,74,68,18,11,7.78,6.9,No,Graduate,100.0,A
+1026,Male,98,5,61,60,95,2,13,5.62,7.3,Yes,High School,100.0,A
+1027,Female,88,10,70,63,83,2,8,8.24,7.6,Yes,High School,100.0,A
+1028,Female,49,8,99,30,84,21,6,4.11,7.5,Yes,Graduate,95.96,A
+1029,Female,76,16,35,39,58,22,1,4.38,4.8,Yes,Graduate,93.86,A
+1030,Male,69,3,59,51,56,21,6,7.46,8.4,Yes,Graduate,98.18,A
+1031,Male,78,4,42,80,87,19,9,8.9,7.3,Yes,Post Graduate,100.0,A
+1032,Male,53,15,31,43,25,20,14,6.85,8.3,Yes,High School,99.83,A
+1033,Female,95,5,44,36,26,17,1,9.63,4.3,Yes,Graduate,91.39,A
+1034,Male,73,11,29,65,98,18,5,9.7,5.7,Yes,Graduate,100.0,A
+1035,Male,72,18,42,74,97,23,1,4.4,7.1,No,Graduate,100.0,A
+1036,Female,63,13,68,99,33,3,12,6.25,4.4,Yes,Post Graduate,100.0,A
+1037,Female,88,19,43,97,85,12,13,5.54,4.9,Yes,Graduate,100.0,A
+1038,Male,85,17,98,48,90,24,2,7.09,6.9,Yes,Graduate,100.0,A
+1039,Male,48,5,65,90,94,22,10,6.6,8.0,No,Graduate,100.0,A
+1040,Female,54,7,74,73,33,14,1,7.57,5.6,Yes,High School,100.0,A
+1041,Male,94,3,47,90,74,2,7,7.51,6.1,Yes,High School,99.42,A
+1042,Male,80,13,66,82,28,10,6,5.92,5.7,Yes,Post Graduate,100.0,A
+1043,Female,79,15,99,60,81,24,3,4.49,8.4,No,High School,100.0,A
+1044,Female,80,2,42,34,39,1,14,9.56,5.9,Yes,Graduate,87.14,A
+1045,Female,82,10,46,72,100,23,3,8.44,6.2,No,Graduate,100.0,A
+1046,Male,53,12,85,69,75,3,14,4.26,8.4,Yes,Post Graduate,100.0,A
+1047,Male,71,8,33,44,26,7,14,8.52,6.6,Yes,Post Graduate,86.2,A
+1048,Male,63,11,34,96,81,2,1,6.14,6.6,No,High School,96.86,A
+1049,Male,59,7,34,50,48,9,12,9.72,7.5,Yes,High School,77.57,B
+1050,Male,46,4,89,86,89,6,2,6.94,5.0,Yes,Graduate,89.77,A
+1051,Male,57,14,54,73,57,9,3,5.56,4.6,Yes,High School,96.56,A
+1052,Female,98,15,56,37,37,12,12,7.24,8.3,No,Graduate,94.65,A
+1053,Female,80,1,47,69,24,1,7,4.65,5.3,No,Graduate,60.29,C
+1054,Female,94,6,90,61,40,3,11,6.21,4.2,Yes,Graduate,89.87,A
+1055,Male,80,19,33,100,49,12,10,4.37,4.8,Yes,High School,100.0,A
+1056,Female,97,8,27,48,47,22,7,8.13,7.7,Yes,Graduate,89.34,A
+1057,Female,59,3,39,80,27,4,13,4.36,9.0,No,Graduate,69.29,C
+1058,Female,79,15,53,96,94,2,11,5.75,7.3,Yes,High School,100.0,A
+1059,Female,80,3,93,41,76,11,12,8.89,6.0,Yes,High School,100.0,A
+1060,Male,95,11,30,94,95,13,5,6.46,8.3,Yes,Graduate,100.0,A
+1061,Female,50,6,87,49,40,1,9,9.4,7.4,Yes,Graduate,89.48,A
+1062,Male,88,19,46,60,26,8,4,4.97,7.7,Yes,Post Graduate,100.0,A
+1063,Female,49,11,53,74,87,16,3,5.51,5.6,Yes,Graduate,100.0,A
+1064,Female,61,19,82,44,84,23,6,9.66,7.5,Yes,High School,100.0,A
+1065,Female,75,11,40,48,50,8,3,8.77,6.9,Yes,Post Graduate,97.67,A
+1066,Female,66,9,86,77,23,4,7,4.77,5.3,Yes,High School,84.04,B
+1067,Male,94,15,42,57,96,4,13,8.57,8.9,No,Post Graduate,100.0,A
+1068,Male,72,16,78,82,31,19,1,7.97,4.2,Yes,High School,100.0,A
+1069,Male,61,16,45,79,59,2,0,6.56,4.5,No,Post Graduate,100.0,A
+1070,Male,63,6,53,52,51,9,10,7.66,4.6,Yes,Post Graduate,83.26,B
+1071,Male,91,5,35,35,86,4,8,5.03,6.1,Yes,Graduate,71.91,B
+1072,Male,90,6,62,78,94,14,8,9.38,8.5,No,High School,100.0,A
+1073,Male,45,8,93,59,27,16,2,7.67,6.2,Yes,Post Graduate,98.58,A
+1074,Male,92,7,37,45,63,6,6,4.83,5.5,Yes,Post Graduate,75.49,B
+1075,Male,51,18,75,75,39,5,12,9.28,5.0,Yes,Graduate,100.0,A
+1076,Male,66,2,67,52,96,8,8,4.79,7.3,Yes,Graduate,84.76,B
+1077,Male,76,4,26,93,33,19,8,9.73,4.7,Yes,Post Graduate,92.86,A
+1078,Male,60,8,51,47,54,16,3,6.73,5.8,Yes,High School,83.79,B
+1079,Male,94,5,58,84,78,2,0,9.02,4.1,Yes,High School,97.16,A
+1080,Female,72,18,32,63,78,17,14,8.46,8.6,Yes,Graduate,100.0,A
+1081,Female,60,12,99,80,20,2,11,4.87,4.9,Yes,Graduate,100.0,A
+1082,Male,67,15,55,87,23,14,10,6.23,5.2,Yes,Graduate,100.0,A
+1083,Female,92,1,50,37,69,15,5,4.39,6.2,No,High School,74.09,B
+1084,Male,56,20,68,95,21,16,9,7.63,7.4,Yes,High School,100.0,A
+1085,Male,80,4,55,60,85,18,4,5.02,7.3,Yes,Post Graduate,98.19,A
+1086,Male,47,20,64,68,91,17,8,6.53,8.2,Yes,Post Graduate,100.0,A
+1087,Male,53,7,65,39,81,3,5,4.44,4.5,Yes,Post Graduate,79.01,B
+1088,Male,56,3,34,62,65,19,5,8.99,5.8,Yes,Post Graduate,92.0,A
+1089,Female,48,5,86,89,60,22,12,6.79,8.1,No,Post Graduate,98.1,A
+1090,Male,95,5,58,68,86,16,13,7.33,7.5,Yes,Post Graduate,100.0,A
+1091,Female,59,18,53,61,58,8,4,6.58,7.2,Yes,Graduate,100.0,A
+1092,Male,77,20,63,57,83,24,8,5.68,8.7,Yes,Post Graduate,100.0,A
+1093,Female,54,16,30,77,94,19,2,4.93,8.1,Yes,High School,100.0,A
+1094,Male,80,15,99,85,23,2,1,6.06,6.0,No,Graduate,100.0,A
+1095,Female,97,18,45,72,29,8,11,9.79,6.4,Yes,High School,100.0,A
+1096,Male,59,4,71,83,51,13,5,4.96,5.7,Yes,Post Graduate,84.18,B
+1097,Male,46,2,62,58,86,6,6,4.85,7.5,Yes,Post Graduate,80.76,B
+1098,Female,84,11,80,44,67,16,0,9.83,4.4,Yes,High School,100.0,A
+1099,Female,76,19,28,68,43,23,6,9.0,4.6,Yes,High School,100.0,A
+1100,Male,49,19,92,35,45,16,6,5.08,7.6,Yes,Post Graduate,100.0,A
+1101,Female,53,15,61,79,91,14,4,6.48,5.3,Yes,Graduate,100.0,A
+1102,Female,47,1,79,44,66,20,13,5.66,6.2,Yes,Post Graduate,89.27,A
+1103,Female,74,3,81,58,69,19,5,8.87,4.5,Yes,Post Graduate,100.0,A
+1104,Female,91,20,38,92,55,23,7,6.84,8.5,Yes,High School,100.0,A
+1105,Female,96,4,99,47,61,16,13,5.29,7.3,Yes,High School,100.0,A
+1106,Male,49,19,55,32,49,20,2,9.42,5.2,Yes,Post Graduate,100.0,A
+1107,Male,66,7,88,59,82,17,14,5.76,8.1,Yes,Post Graduate,100.0,A
+1108,Female,54,18,56,65,47,15,1,5.69,4.4,No,High School,100.0,A
+1109,Male,56,6,69,87,100,0,7,8.93,6.2,No,Graduate,98.52,A
+1110,Male,80,18,81,74,98,15,1,8.57,6.1,No,Graduate,100.0,A
+1111,Male,71,9,39,89,50,20,11,7.78,8.0,Yes,Graduate,100.0,A
+1112,Female,95,3,38,78,96,8,10,5.4,8.5,Yes,Graduate,98.31,A
+1113,Male,99,17,27,69,85,1,9,5.19,7.7,No,High School,100.0,A
+1114,Male,53,7,86,55,76,4,4,8.63,8.6,Yes,High School,99.04,A
+1115,Male,75,19,44,56,63,2,0,9.91,6.8,Yes,Graduate,100.0,A
+1116,Male,100,1,58,46,47,13,1,6.45,5.0,Yes,Graduate,70.5,B
+1117,Male,78,5,92,55,80,2,3,7.43,6.8,Yes,Post Graduate,95.06,A
+1118,Male,50,11,58,92,72,20,4,9.43,8.0,Yes,High School,100.0,A
+1119,Male,69,13,87,56,79,18,0,5.84,8.9,Yes,High School,100.0,A
+1120,Female,48,12,69,61,23,20,0,7.5,8.7,Yes,Post Graduate,97.73,A
+1121,Male,91,6,90,38,87,12,6,4.67,6.8,Yes,High School,92.68,A
+1122,Female,71,15,93,44,61,13,1,5.33,8.9,Yes,High School,100.0,A
+1123,Male,70,12,47,91,32,8,0,8.29,7.6,Yes,High School,100.0,A
+1124,Female,74,12,97,46,33,18,6,7.52,6.2,Yes,Graduate,100.0,A
+1125,Male,46,4,41,69,65,23,12,9.97,4.6,Yes,Post Graduate,94.72,A
+1126,Female,46,13,64,60,67,3,12,9.53,7.3,No,Post Graduate,100.0,A
+1127,Female,65,13,61,76,90,13,6,9.26,5.0,Yes,Graduate,100.0,A
+1128,Female,49,1,70,47,32,24,7,4.07,7.0,Yes,High School,75.41,B
+1129,Male,92,8,39,35,82,7,14,6.19,6.7,Yes,Post Graduate,93.57,A
+1130,Male,58,11,94,91,80,0,8,8.24,6.4,Yes,Post Graduate,100.0,A
+1131,Female,48,2,45,59,39,15,2,6.84,6.3,Yes,Post Graduate,71.78,B
+1132,Male,61,2,76,87,60,11,3,5.02,4.0,Yes,High School,89.37,A
+1133,Male,77,20,28,94,53,20,7,4.33,4.6,Yes,High School,100.0,A
+1134,Female,48,11,31,55,94,23,10,9.85,7.4,Yes,Post Graduate,100.0,A
+1135,Male,95,19,100,81,66,4,7,4.07,8.6,Yes,High School,100.0,A
+1136,Female,67,4,37,71,68,13,7,9.14,7.0,Yes,High School,96.74,A
+1137,Female,76,7,37,98,61,12,14,9.34,8.6,Yes,High School,100.0,A
+1138,Female,64,7,64,88,96,13,11,4.82,4.8,Yes,Graduate,98.42,A
+1139,Female,79,2,27,97,24,9,3,8.23,5.8,No,High School,75.48,B
+1140,Male,65,12,73,82,93,16,0,8.08,8.4,Yes,Post Graduate,100.0,A
+1141,Male,61,12,90,99,92,4,3,6.81,5.4,Yes,Post Graduate,100.0,A
+1142,Male,65,6,27,98,92,6,11,9.68,4.5,Yes,Graduate,100.0,A
+1143,Female,57,16,31,35,75,6,1,9.63,5.6,No,Post Graduate,100.0,A
+1144,Male,47,8,93,72,20,21,13,9.32,8.2,Yes,High School,100.0,A
+1145,Male,67,11,69,31,33,5,7,8.23,7.4,No,Post Graduate,98.68,A
+1146,Female,46,11,91,60,52,23,0,9.75,5.1,Yes,Post Graduate,100.0,A
+1147,Male,74,2,31,63,51,20,6,9.07,6.3,Yes,Post Graduate,89.36,A
+1148,Male,54,15,64,47,86,6,13,8.54,7.7,Yes,High School,100.0,A
+1149,Male,80,6,46,55,88,2,1,4.75,4.9,Yes,Post Graduate,80.79,B
+1150,Female,66,19,63,80,28,2,6,9.25,4.9,Yes,High School,100.0,A
+1151,Male,84,10,31,46,69,23,1,8.85,4.3,Yes,Graduate,100.0,A
+1152,Female,82,6,75,64,72,18,4,5.06,8.4,Yes,High School,96.99,A
+1153,Female,62,18,25,43,27,1,2,8.12,5.4,Yes,High School,93.3,A
+1154,Male,94,13,98,39,33,13,10,9.27,5.5,Yes,Post Graduate,100.0,A
+1155,Female,83,18,86,82,43,23,13,7.68,5.4,Yes,High School,100.0,A
+1156,Female,72,10,69,94,86,8,4,7.52,6.3,Yes,High School,100.0,A
+1157,Male,47,5,88,78,91,16,8,5.51,6.1,No,Post Graduate,100.0,A
+1158,Male,53,15,90,100,66,17,5,4.92,5.9,No,Graduate,100.0,A
+1159,Female,88,14,85,65,32,15,5,8.52,6.8,Yes,Post Graduate,100.0,A
+1160,Male,99,1,32,33,72,4,0,8.94,8.6,Yes,High School,82.79,B
+1161,Female,67,5,95,86,25,16,5,7.53,5.6,No,High School,89.07,A
+1162,Male,70,11,32,69,24,20,7,9.23,8.3,Yes,Post Graduate,98.23,A
+1163,Male,96,17,55,36,49,2,2,9.9,7.2,Yes,Graduate,100.0,A
+1164,Female,82,15,94,94,81,23,2,6.28,6.3,Yes,High School,100.0,A
+1165,Female,69,9,36,83,30,3,13,7.71,6.6,No,Graduate,82.13,B
+1166,Male,73,6,25,68,20,18,7,8.66,7.3,Yes,High School,89.75,A
+1167,Female,74,1,72,51,73,13,3,7.2,8.1,Yes,Post Graduate,88.46,A
+1168,Female,96,12,89,94,29,17,14,7.66,4.6,Yes,High School,100.0,A
+1169,Male,65,20,87,35,33,0,6,7.61,7.4,Yes,Graduate,100.0,A
+1170,Female,48,10,30,86,49,21,13,4.07,6.1,Yes,Graduate,88.8,A
+1171,Male,86,3,39,46,37,18,2,9.73,5.0,Yes,Post Graduate,83.86,B
+1172,Female,88,2,51,93,60,3,4,8.32,7.1,No,Graduate,77.87,B
+1173,Female,74,5,40,34,86,22,12,6.76,8.5,Yes,Post Graduate,95.32,A
+1174,Female,74,19,77,81,66,17,5,9.74,5.7,Yes,Post Graduate,100.0,A
+1175,Male,78,7,43,60,96,24,7,5.94,5.7,No,Graduate,96.64,A
+1176,Male,72,5,65,41,92,17,6,9.45,5.1,Yes,Post Graduate,100.0,A
+1177,Male,75,20,26,67,51,9,8,6.86,7.9,Yes,Post Graduate,100.0,A
+1178,Male,78,1,87,50,24,2,4,7.41,4.8,Yes,Graduate,70.29,B
+1179,Male,96,3,94,50,99,14,6,8.49,4.5,Yes,High School,100.0,A
+1180,Female,45,19,67,78,44,9,11,4.77,5.9,Yes,High School,100.0,A
+1181,Female,49,14,58,77,80,16,2,7.83,5.5,No,Post Graduate,100.0,A
+1182,Male,80,12,75,72,53,15,0,8.69,5.8,Yes,High School,100.0,A
+1183,Female,69,6,57,39,56,0,6,5.6,7.2,Yes,High School,79.79,B
+1184,Female,91,4,71,44,63,7,7,5.09,5.2,Yes,Post Graduate,89.71,A
+1185,Female,57,17,55,45,60,0,14,9.99,7.5,Yes,Post Graduate,100.0,A
+1186,Male,94,20,60,44,81,17,13,5.73,4.9,Yes,Post Graduate,100.0,A
+1187,Female,66,3,95,99,45,21,0,4.82,6.8,Yes,Graduate,88.87,A
+1188,Male,62,9,43,33,84,8,10,6.25,5.4,Yes,Post Graduate,95.55,A
+1189,Male,66,18,26,65,39,15,2,5.27,6.0,Yes,High School,100.0,A
+1190,Female,64,2,80,84,39,17,8,7.93,6.7,Yes,Post Graduate,97.23,A
+1191,Male,87,7,100,98,82,1,5,9.62,5.1,No,High School,100.0,A
+1192,Male,95,5,77,92,30,13,6,6.81,8.9,Yes,High School,97.51,A
+1193,Male,98,15,29,47,63,22,13,5.95,5.2,Yes,High School,100.0,A
+1194,Female,74,13,69,74,98,19,3,9.34,7.3,No,Graduate,100.0,A
+1195,Female,74,5,37,98,44,12,7,4.12,7.7,Yes,Post Graduate,90.22,A
+1196,Male,81,9,35,56,53,5,12,6.47,7.4,Yes,Graduate,84.79,B
+1197,Female,98,5,39,67,97,13,8,7.29,6.5,Yes,Post Graduate,100.0,A
+1198,Female,57,19,50,82,70,4,8,6.29,8.2,Yes,High School,100.0,A
+1199,Male,52,14,27,53,32,10,12,9.29,7.2,Yes,Graduate,95.37,A
+1200,Male,99,1,27,33,23,9,8,6.71,7.0,No,Graduate,72.9,B

@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+.input-dark {
+  width: 100%;
+  border-radius: 14px;
+  background: #252d4d;
+  border: 1px solid #4c5680;
+  padding: 12px 14px;
+  color: white;
+  outline: none;
+}
+
+.input-dark::placeholder {
+  color: #b8bfdc;
+}
+
+.input-dark:focus {
+  border-color: #708cff;
+  box-shadow: 0 0 0 3px rgba(112, 140, 255, 0.25);
+}
