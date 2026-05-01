@@ -258,15 +258,20 @@ http://localhost:3000
 
 # 📸 Screenshots
 
-Add inside `/images` folder:
+## Full Dashboard
+![Full Dashboard](images/full-dashboard.png)
 
-```text
-images/full-dashboard.png
-images/input-form.png
-images/performance-graph.png
-images/prediction-result.png
-images/api-docs.png
-```
+## Input Form
+![Input Form](images/input-form.png)
+
+## Performance Graph
+![Performance Graph](images/performance-graph.png)
+
+## Prediction Result
+![Prediction Result](images/prediction-result.png)
+
+## API Docs
+![API Docs](images/api-docs.png)
 
 ---
 
